@@ -1,0 +1,176 @@
+## Leet Code SQL Challenge Progress
+
+### SQL Testing Website: http://www.sqlfiddle.com/#!2/4e3c3/8
+
+## Duplicate Email
+
+*Note: HAVING is for GROUP BY, since WHERE cannot be used with aggregations*
+
+SELECT Email  
+from Person  
+GROUP BY Email  
+HAVING Count(*)>1  
+
+## Second highest salary
+
+SELECT DISTINCT
+    Salary AS SecondHighestSalary
+FROM
+    Employee
+ORDER BY Salary DESC
+LIMIT 1 OFFSET 1
+
+## getNthHighestSalary
+
+CREATE FUNCTION getNthHighestSalary(N INT) RETURNS INT
+BEGIN
+DECLARE M INT;
+SET M=N-1;
+  RETURN (
+      SELECT DISTINCT Salary
+      from Employee
+      ORDER BY Salary DESC
+      LIMIT 1 OFFSET M
+  );
+END
+
+## Customers Who Never Order
+
+*Note: Cannot do MINUS and INNER JOIN, try to use LEFT OUTER JOIN and NULL instead*
+
+Select C.Name as Customers
+FROM Customers as C
+    LEFT OUTER JOIN Orders as O 
+                    on C.Id = O.CustomerId
+WHERE O.CustomerId IS NULL
+
+## Rising Temperature
+
+*Note: Can have multiple tables after FROM clause*
+
+SELECT W1.Id
+FROM Weather as W1, Weather as W2
+WHERE TO_DAYS(W1.RecordDate) - TO_DAYS(W2.RecordDate) = 1 
+AND W1.Temperature > W2.Temperature
+
+## Employees Earning More Than Their Managers
+
+Easy!
+
+SELECT E1.Name as Employee
+from Employee as E1, Employee as E2
+WHERE E1.ManagerId = E2.Id
+AND E1.Salary > E2.Salary
+
+## Delete Duplicate Emails
+
+DELETE P2
+From Person as P1, Person as P2
+WHERE P1.Email = P2.Email 
+AND P2.Id > P1.Id
+
+*Better answer:*
+
+DELETE
+FROM Person
+WHERE id NOT IN 
+(SELECT temp.id FROM (SELECT MIN(p2.id) AS id FROM Person p2 GROUP BY p2.Email) temp)
+
+OR
+
+DELETE 
+FROM Person 
+WHERE Id NOT IN
+(SELECT Id 
+ FROM 
+ (SELECT MIN(Id) AS Id
+  FROM person
+  GROUP BY Email) AS P
+)
+ 
+ 
+## Exchange Seats
+
+SELECT
+    CASE
+        WHEN s.id = (SELECT COUNT(*) FROM seat) AND s.id % 2 = 1 THEN s.id
+        WHEN s.id % 2 = 0 THEN s.id - 1
+        ELSE
+            s.id + 1
+    END as id,
+    s.student
+FROM seat as s
+ORDER BY id
+
+## Rank Scores
+
+*Note: Use variable wisely! Challenging question!*
+
+SELECT S.Score, S2.Rank
+From Scores as S
+INNER JOIN
+(SELECT SCORE as score, @rank := @rank +1 as Rank
+FROM (SELECT DISTINCT(Score) from Scores
+      ORDER BY Score DESC) AS distinct_table, (SELECT @rank := 0) AS init) AS S2
+      ON S.Score = S2.Score
+ORDER BY S.Score DESC
+
+Another possible solution (from LeetCode Discussion):
+
+SELECT
+  Score,
+  @rank := @rank + (@prev <> (@prev := Score)) Rank
+FROM
+  Scores,
+  (Select @rank := 0, @prev := -1) tmp
+ORDER BY Score desc
+
+## Department Highest Salary
+
+SELECT D.Name as Department,
+E.Name as Employee,
+E.Salary as Salary
+    FROM 
+    Department as D,
+    Employee as E,
+    (SELECT MAX(Salary) as Salary, 
+     DepartmentId as DepartmentId
+    FROM Employee
+    GROUP BY DepartmentId) as Max_Table
+
+    WHERE
+    E.Salary = Max_Table.Salary 
+    AND E.DepartmentId = Max_Table.DepartmentId
+    AND E.DepartmentId = D.Id
+    
+## Another Solution Using IN
+
+select b.Name as Department, a.Name as Employee, a.Salary as Salary
+from Employee a join Department b
+on a.DepartmentId = b.Id
+where (a.DepartmentId, a.Salary) in (select DepartmentId,max(Salary) from Employee group by DepartmentId)
+
+## Department Top Three Salaries
+
+*Note: They require it to be distinct salaries, so there can be more than 3 people in the answer. *
+*Also, if the department is null, do not return people from that department*
+
+SELECT d.Name AS Department, 
+e.Name as Employee,
+e.Salary as Salary
+FROM Employee as e
+INNER JOIN Department as d on d.Id = e.DepartmentId
+WHERE 3 > (SELECT COUNT(DISTINCT(e2.Salary))
+          FROM Employee as e2
+          WHERE e2.Salary > e.Salary AND e2.DepartmentId = e.DepartmentId)
+ORDER BY Department, Salary DESC, Employee
+
+## Trips and Users
+
+SELECT 
+    t.Request_at AS Day,
+    ROUND(SUM(IF(t.Status<>'completed',1,0)) / COUNT(*), 2) as 'Cancellation Rate'
+    FROM Trips AS t
+    INNER JOIN Users AS U ON t.Client_Id = U.Users_Id
+    WHERE U.Banned='No' AND t.Request_at BETWEEN '2013-10-01' AND '2013-10-03'
+Group BY t.Request_at
