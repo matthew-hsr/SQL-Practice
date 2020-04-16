@@ -81,12 +81,12 @@ body {
 <div id="wm-ipp-base" lang="en" style="display: block; direction: ltr;">
 </div><div id="donato" style="position:relative;width:100%;">
   <div id="donato-base">
-    <iframe id="donato-if" src="https://archive.org/includes/donate.php?as_page=1&amp;transpiled=0&amp;referer=http%3A//web.archive.org/web/20060111190728/http%3A//amazon.com/exec/obidos/subst/home/home.html/" scrolling="no" frameborder="0" style="width:100%; height:100%">
+    <iframe id="donato-if" src="https://archive.org/includes/donate.php?as_page=1&amp;transpiled=0&amp;referer=http%3A//web.archive.org/web/20060112113446/http%3A//www.amazon.com/exec/obidos/subst/home/home.html/103-3640082-9615854" scrolling="no" frameborder="0" style="width:100%; height:100%">
     </iframe>
   </div>
 </div><script type="text/javascript">
-__wm.bt(625,27,25,2,"web","http://amazon.com/exec/obidos/subst/home/home.html/","2006-01-11",1996,"/_static/",['css/banner-styles.css','css/iconochive.css']);
-__wm.checkScreenShot("http://amazon.com/exec/obidos/subst/home/home.html/", '20060111190728');
+__wm.bt(625,27,25,2,"web","http://www.amazon.com/exec/obidos/subst/home/home.html/103-3640082-9615854","2006-01-12",1996,"/_static/",['css/banner-styles.css','css/iconochive.css']);
+__wm.checkScreenShot("http://www.amazon.com/exec/obidos/subst/home/home.html/103-3640082-9615854", '20060112113446');
 </script><div class="wb-autocomplete-suggestions "></div>
 <!-- END WAYBACK TOOLBAR INSERT -->
 <a name="top"></a>
@@ -164,52 +164,52 @@ font-size: 11px;
 color: black;
 }
 .header .secondary {
-background-image:url(http://web.archive.org/web/20060111190728im_/http://g-images.amazon.com/images/G/01/nav2/images/skins/teal/subnav-bg.gif);
+background-image:url(http://web.archive.org/web/20060112113446im_/http://g-images.amazon.com/images/G/01/nav2/images/skins/teal/subnav-bg.gif);
 }
 .secondary td {
 background-image: none;
 }
 .secondary .secondsearch {
-background-image:url(http://web.archive.org/web/20060111190728im_/http://g-images.amazon.com/images/G/01/nav2/images/skins/teal/subnav-secondary-bg.gif);
+background-image:url(http://web.archive.org/web/20060112113446im_/http://g-images.amazon.com/images/G/01/nav2/images/skins/teal/subnav-secondary-bg.gif);
 background-repeat: no-repeat;
 }
 .secondary .gcsecondsearch {
 background-repeat: no-repeat;
 }
 .secondary .secondsearch2 {
-background-image:url(http://web.archive.org/web/20060111190728im_/http://g-images.amazon.com/images/G/01/nav2/images/skins/teal/subnav-secondary-bg-lite.gif);
+background-image:url(http://web.archive.org/web/20060112113446im_/http://g-images.amazon.com/images/G/01/nav2/images/skins/teal/subnav-secondary-bg-lite.gif);
 background-repeat: no-repeat;
 }
 .header .tabs {
-background-image:url(http://web.archive.org/web/20060111190728im_/http://g-images.amazon.com/images/G/01/nav2/images/skins/teal/tabs-line.gif);
+background-image:url(http://web.archive.org/web/20060112113446im_/http://g-images.amazon.com/images/G/01/nav2/images/skins/teal/tabs-line.gif);
 }
 .tabs .leftoff {
-background-image:url(http://web.archive.org/web/20060111190728im_/http://g-images.amazon.com/images/G/01/nav2/images/skins/teal/tabs-left-off.gif);
+background-image:url(http://web.archive.org/web/20060112113446im_/http://g-images.amazon.com/images/G/01/nav2/images/skins/teal/tabs-left-off.gif);
 background-repeat: no-repeat;
 }
 .tabs .lefton {
-background-image:url(http://web.archive.org/web/20060111190728im_/http://g-images.amazon.com/images/G/01/nav2/images/skins/teal/tabs-left-on.gif);
+background-image:url(http://web.archive.org/web/20060112113446im_/http://g-images.amazon.com/images/G/01/nav2/images/skins/teal/tabs-left-on.gif);
 background-repeat: no-repeat;
 }
 .tabs .middleoff {
-background-image:url(http://web.archive.org/web/20060111190728im_/http://g-images.amazon.com/images/G/01/nav2/images/skins/teal/tabs-middle-off.gif);
+background-image:url(http://web.archive.org/web/20060112113446im_/http://g-images.amazon.com/images/G/01/nav2/images/skins/teal/tabs-middle-off.gif);
 background-repeat: no-repeat;
 }
 .tabs .middleon {
-background-image:url(http://web.archive.org/web/20060111190728im_/http://g-images.amazon.com/images/G/01/nav2/images/skins/teal/tabs-middle-on.gif);
+background-image:url(http://web.archive.org/web/20060112113446im_/http://g-images.amazon.com/images/G/01/nav2/images/skins/teal/tabs-middle-on.gif);
 background-repeat: no-repeat;
 white-space: nowrap;
 }
 .tabs .middleoffonleft {
-background-image:url(http://web.archive.org/web/20060111190728im_/http://g-images.amazon.com/images/G/01/nav2/images/skins/teal/tabs-middle-off-onleft.gif);
+background-image:url(http://web.archive.org/web/20060112113446im_/http://g-images.amazon.com/images/G/01/nav2/images/skins/teal/tabs-middle-off-onleft.gif);
 background-repeat: no-repeat;
 }
 .tabs .rightoff {
-background-image:url(http://web.archive.org/web/20060111190728im_/http://g-images.amazon.com/images/G/01/nav2/images/skins/teal/tabs-right-off.gif);
+background-image:url(http://web.archive.org/web/20060112113446im_/http://g-images.amazon.com/images/G/01/nav2/images/skins/teal/tabs-right-off.gif);
 background-repeat: no-repeat;
 }
 .tabs .righton {
-background-image:url(http://web.archive.org/web/20060111190728im_/http://g-images.amazon.com/images/G/01/nav2/images/skins/teal/tabs-right-on.gif);
+background-image:url(http://web.archive.org/web/20060112113446im_/http://g-images.amazon.com/images/G/01/nav2/images/skins/teal/tabs-right-on.gif);
 background-repeat: no-repeat;
 }
 .tabs .middleoff a, .tabs .middleon a, .tabs .middleoffonleft a {
@@ -232,7 +232,7 @@ color: white;
 color: white;
 }
 .tertiary .secondsearch, .tertiary .secondsearch2 {
-background-image:url(http://web.archive.org/web/20060111190728im_/http://g-images.amazon.com/images/G/01/nav2/images/skins/teal/subnav-secondary-bg-tan.gif);
+background-image:url(http://web.archive.org/web/20060112113446im_/http://g-images.amazon.com/images/G/01/nav2/images/skins/teal/subnav-secondary-bg-tan.gif);
 background-repeat: no-repeat;
 }
 .tertiary .gcsecondsearch{
@@ -279,18 +279,18 @@ color: #963;
 <tbody><tr>
 <td align="center" style="white-space:nowrap">
 &nbsp;</td>
-<td class="lefton"><div align="center"><a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/exec/obidos/subst/home/home.html"><img src="http://web.archive.org/web/20060111190728im_/http://g-images.amazon.com/images/G/01/nav2/images/skins/teal/logo-on.gif" width="109" height="25" border="0"></a></div></td>
-<td class="middleoffonleft"><div align="center"><a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/gp/yourstore"> Your
+<td class="lefton"><div align="center"><a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/subst/home/home.html/ref=two_tab_gw/103-3640082-9615854"><img src="http://web.archive.org/web/20060112113446im_/http://g-images.amazon.com/images/G/01/nav2/images/skins/teal/logo-on.gif" width="109" height="25" border="0"></a></div></td>
+<td class="middleoffonleft"><div align="center"><a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/gp/yourstore/ref=pd_ysl_gw_gw_2/103-3640082-9615854"> Your
 <br> Store</a></div></td>
-<td class="middleoff"><div align="center"><a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/exec/obidos/subst/home/all-stores.html" name="two-tabs|he|all-categories">See All 32<br><nobr>Product Categories</nobr></a></div></td>
-<td class="rightoff" width="15"><img src="http://web.archive.org/web/20060111190728im_/http://g-images.amazon.com/images/G/01/x-locale/common/transparent-pixel.gif" width="15" height="8" border="0"></td>
+<td class="middleoff"><div align="center"><a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/subst/home/all-stores.html/ref=two_tab_gw/103-3640082-9615854" name="two-tabs|he|all-categories">See All 32<br><nobr>Product Categories</nobr></a></div></td>
+<td class="rightoff" width="15"><img src="http://web.archive.org/web/20060112113446im_/http://g-images.amazon.com/images/G/01/x-locale/common/transparent-pixel.gif" width="15" height="8" border="0"></td>
 <td class="tools">
 <nobr>&nbsp;&nbsp;
-<a class="" href="http://web.archive.org/web/20060111190728/http://www.amazon.com/gp/css/homepage.html"> Your Account</a> <span class="navspacer"><span class="light">|</span></span>
-<a class="" href="http://web.archive.org/web/20060111190728/http://www.amazon.com/gp/cart/view.html"><img src="http://web.archive.org/web/20060111190728im_/http://g-images.amazon.com/images/G/01/x-locale/common/icons/topnav-cart.gif" width="19" height="16" alt="Cart" align="middle" border="0"> Cart</a> <span class="navspacer"><span class="light">|</span></span>
-<a class="" href="http://web.archive.org/web/20060111190728/http://www.amazon.com/gp/registry/wishlist?type=wishlist">Wish List</a> <span class="navspacer"><span class="light">|</span></span>
-<a class="" href="http://web.archive.org/web/20060111190728/http://www.amazon.com/exec/obidos/tg/browse/-/508510">Help</a> <span class="navspacer"><span class="light">|</span></span>
-<a id="goldboxPop_1" name="goldboxPop|he|goldboxPopDiv_1" href="http://web.archive.org/web/20060111190728/http://www.amazon.com/exec/obidos/tg/stores/static/-/goldbox/index"><img src="http://web.archive.org/web/20060111190728im_/http://g-images.amazon.com/images/G/01/goldbox/gb27/gb-closed.gif" width="30" height="27" alt="Gold Box" align="middle" border="0"></a> </nobr>
+<a class="" href="http://web.archive.org/web/20060112113446/http://www.amazon.com/gp/css/homepage.html/ref=cs_top_nav_ya/103-3640082-9615854"> Your Account</a> <span class="navspacer"><span class="light">|</span></span>
+<a class="" href="http://web.archive.org/web/20060112113446/http://www.amazon.com/gp/cart/view.html/ref=cs_top_nav_sc/103-3640082-9615854"><img src="http://web.archive.org/web/20060112113446im_/http://g-images.amazon.com/images/G/01/x-locale/common/icons/topnav-cart.gif" width="19" height="16" alt="Cart" align="middle" border="0"> Cart</a> <span class="navspacer"><span class="light">|</span></span>
+<a class="" href="http://web.archive.org/web/20060112113446/http://www.amazon.com/gp/registry/wishlist/ref=cs_top_nav_wl/103-3640082-9615854?type=wishlist">Wish List</a> <span class="navspacer"><span class="light">|</span></span>
+<a class="" href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/tg/browse/-/508510/ref=cs_top_nav_hp/103-3640082-9615854">Help</a> <span class="navspacer"><span class="light">|</span></span>
+<a id="goldboxPop_1" name="goldboxPop|he|goldboxPopDiv_1" href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/tg/stores/static/-/goldbox/index/ref=cs_top_nav_gb/103-3640082-9615854"><img src="http://web.archive.org/web/20060112113446im_/http://g-images.amazon.com/images/G/01/goldbox/gb27/gb-closed.gif" width="30" height="27" alt="Gold Box" align="middle" border="0"></a> </nobr>
 </td>
 </tr>
 </tbody></table>
@@ -330,24 +330,120 @@ color: #FFFFFF;
 }
 -->
 </style>
-<td align="center" height="28"><a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/exec/obidos/tg/browse/-/229220" class="">Gift Ideas</a></td>
+<td align="center" height="28"><a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/tg/browse/-/229220/ref=gw_subnav_gft/103-3640082-9615854" class="">Gift Ideas</a></td>
 <td class="navspacer">&nbsp; | &nbsp;</td>
-<td align="center" height="28"><a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/exec/obidos/tg/stores/static/-/gateway/international-gateway" class="">International</a></td>
+<td align="center" height="28"><a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/tg/stores/static/-/gateway/international-gateway/ref=gw_subnav_in/103-3640082-9615854" class="">International</a></td>
 <td class="navspacer">&nbsp; | &nbsp;</td>
-<td align="center" height="28"><a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/exec/obidos/tg/new-for-you/new-releases/-/main" class="">New Releases</a></td>
+<td align="center" height="28"><a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/tg/new-for-you/new-releases/-/main/ref=gw_subnav_nr/103-3640082-9615854" class="">New Releases</a></td>
 <td class="navspacer">&nbsp; | &nbsp;</td>
-<td align="center" height="28"><a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/exec/obidos/tg/new-for-you/top-sellers/-/main" class="">Top Sellers</a></td>
+<td align="center" height="28"><a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/tg/new-for-you/top-sellers/-/main/ref=gw_subnav_ts/103-3640082-9615854" class="">Top Sellers</a></td>
 <td class="navspacer">&nbsp; | &nbsp;</td>
-<td align="center" height="28"><a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/exec/obidos/tg/browse/-/909656" class="">Today's Deals</a></td>
+<td align="center" height="28"><a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/tg/browse/-/909656/ref=stuffandsubnav_td1_/103-3640082-9615854" class="">Today's Deals</a></td>
 <td class="navspacer">&nbsp; | &nbsp;</td>
-<td align="center" height="28"><a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/exec/obidos/subst/misc/sell-your-stuff.html" class="">Sell Your Stuff</a></td>
+<td align="center" height="28"><a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/subst/misc/sell-your-stuff.html/ref=subnav_sys_/103-3640082-9615854" class="">Sell Your Stuff</a></td>
 </tr>
+</tbody></table>
+<table width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+<tbody><tr>
+<td align="center">
+<form style="margin-bottom:0px" method="get" action="/web/20060112113446/http://www.amazon.com/exec/obidos/search-handle-url/103-3640082-9615854">
+<table cellspacing="0" cellpadding="0" border="0" align="center" style="width:90%">
+<tbody><tr>
+<td class="searchtitle" width="50" align="center">Search&nbsp;</td>
+<td width="100"> <select name="url">
+<option value="index=blended" selected="">Amazon.com
+</option><option value="index=stripbooks:relevance-above">Books</option>
+<option value="index=music">Popular Music
+</option><option value="index=music-dd">Music Downloads
+</option><option value="index=classical">Classical Music
+</option><option value="index=dvd">DVD
+</option><option value="index=vhs">VHS
+</option><option value="index=apparel-index&amp;platform=gurupa">Apparel
+</option><option value="index=local-index&amp;platform=gurupa">Yellow Pages</option>
+<option value="index=theatrical">Movie Showtimes
+</option><option value="index=toys">Toys
+</option><option value="index=baby">Baby
+</option><option value="index=pc-hardware">Computers
+</option><option value="index=videogames">Video Games
+</option><option value="index=electronics">Electronics
+</option><option value="index=photo">Camera &amp; Photo
+</option><option value="index=software">Software
+</option><option value="index=tools">Tools &amp; Hardware
+</option><option value="index=office-products">Office Products
+</option><option value="index=magazines">Magazines
+</option><option value="index=sporting-index&amp;platform=gurupa">Sports &amp; Outdoors
+</option><option value="index=garden">Outdoor Living
+</option><option value="index=kitchen">Kitchen
+</option><option value="index=jewelry-index&amp;platform=gurupa">Jewelry &amp; Watches
+</option><option value="index=beauty-index&amp;platform=gurupa">Beauty
+</option><option value="index=gourmet-index&amp;platform=gurupa">Gourmet Food
+</option><option value="index=mi-index&amp;platform=gurupa">Musical Instruments
+</option><option value="index=hpc-index&amp;platform=gurupa">Health/Personal Care
+</option><option value="index=books&amp;field-browse=27&amp;store-name=travel">Travel
+</option><option value="index=wireless-phones">Cell Phones &amp; Service
+</option><option value="index=outlet">Outlet
+</option><option value="index=auction-redirect">Auctions
+</option><option value="index=fixed-price-redirect">zShops
+</option><option value="index=misc">Everything Else
+</option><option value="index=automotive-index&amp;platform=gurupa">Automotive
+</option></select>
+</td>
+<td width="5">&nbsp;</td>
+<td width="325">
+<input type="text" name="field-keywords" size="25" style="width:100%" value=""><img src="http://web.archive.org/web/20060112113446im_/http://g-images.amazon.com/images/G/01/x-locale/common/transparent-pixel.gif" width="200" height="1" border="0"></td>
+<td width="5">&nbsp;</td> <td>
+<input type="image" name="Go" value="Go" border="0" alt="Go" src="http://web.archive.org/web/20060112113446im_/http://g-images.amazon.com/images/G/01/buttons/go-orange-trans.gif" width="21" height="21"> </td>
+</tr>
+</tbody></table>
+</form>
+</td>
+<td style="width:263px">
+<script language="javascript" type="text/javascript">
+<!--
+function submitSearch(form) {
+var value = form.q.value;
+if (value) {
+if (value == "robots.txt" || value == "favicon.ico") {
+value = '"' + value + '"';
+}
+if (typeof(encodeURIComponent) != "undefined") {
+value = encodeURIComponent(value);
+} else {
+value = escape(value);
+}
+location.href = "http://web.archive.org/web/20060112113446/http://a9.amazon.com/?dns=www&src=amz&qs=" + value;
+}
+return false;
+}
+//-->
+</script>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td class="secondsearch" height="34">
+<form method="get" action="http://web.archive.org/web/20060112113446/http://a9.amazon.com/?dns=www&amp;src=amz&amp;qs=" target="new_window" onsubmit=" return submitSearch(this)" style="margin:0">
+<table border="0" cellspacing="2" cellpadding="0" align="center">
+<tbody><tr>
+<td><a href="http://web.archive.org/web/20060112113446/http://a9.com/"><img src="http://web.archive.org/web/20060112113446im_/http://g-images.amazon.com/images/G/01/search-browse/a9-logo.gif" width="19" height="17" border="0" alt="Search Web"></a></td>
+<td class="title"><nobr>Web Search</nobr></td>
+<td><input type="text" name="q" value="" size="10" maxlength="256" style="width=120px"></td>
+<td>
+<input type="image" name="Go" value="Go" border="0" alt="Go" src="http://web.archive.org/web/20060112113446im_/http://g-images.amazon.com/images/G/01/buttons/go-grey-a9.gif" width="21" height="21" align="absmiddle"> </td>
+</tr>
+</tbody></table>
+</form>
+</td>
+</tr>
+</tbody></table>
+</td> </tr>
 </tbody></table>
 </td>
 </tr>
 </tbody></table>
 <table border="0" width="100%" cellspacing="0" cellpadding="0">
-</table>
+<tbody><tr><td align="center" class="small" bgcolor="#FFFFDD">
+<b class="h3color">Hello.</b> Sign in to get <a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=flex%2Dsign%2Din%2Fref%3Dgw%5Fhp%5Fsi%2F%3Fopt%3Da%26page%3Drecs%2Fsign%2Din%2Dsecure.html%26response%3Dtg%2Frecs%2Frecs%2Dpost%2Dlogin%2Ddispatch%2F%2D%2Frecs%2Fpd%5Frw%5Fgw%5Fur%2Fref%3Damb%5F%5F141125201%5F1%2F&amp;l=141125201&amp;c=141125201&amp;i=1586737538&amp;s=1">personalized recommendations</a>. New customer? <a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=flex%2Dsign%2Din%2Fref%3Dgw%5Fhp%5Fcs%2F%3Fopt%3Doa%26page%3Drecs%2Fsign%2Din%2Dsecure.html%26response%3Dtg%2Frecs%2Frecs%2Dpost%2Dlogin%2Ddispatch%2F%2D%2Frecs%2Fref%3Dpd%5Frw%5Fgw%5Fr%2Fref%3Damb%5F%5F141125201%5F2%2F&amp;l=141125201&amp;c=141125201&amp;i=1586737538&amp;s=1">Start here</a>.
+</td></tr>
+</tbody></table>
 <div id="popdownBaseline"></div>
 
 <br>
@@ -359,7 +455,7 @@ color: #FFFFFF;
 <td>
 <table width="180" border="0" cellspacing="0" cellpadding="0">
 <tbody><tr valign="top" bgcolor="#006699">
-<td width="5"><img src="http://web.archive.org/web/20060111190728im_/http://g-images.amazon.com/images/G/01/x-locale/common/icons/eyebrow-upper-left-corner.gif" width="5" height="5" border="0"></td>
+<td width="5"><img src="http://web.archive.org/web/20060112113446im_/http://g-images.amazon.com/images/G/01/x-locale/common/icons/eyebrow-upper-left-corner.gif" width="5" height="5" border="0"></td>
 <td>
 <table width="99%" border="0" cellspacing="3" cellpadding="0">
 <tbody><tr>
@@ -367,7 +463,7 @@ color: #FFFFFF;
 </tr>
 </tbody></table>
 </td>
-<td width="5" align="right"><img src="http://web.archive.org/web/20060111190728im_/http://g-images.amazon.com/images/G/01/x-locale/common/icons/eyebrow-upper-right-corner.gif" width="5" height="5" border="0"></td>
+<td width="5" align="right"><img src="http://web.archive.org/web/20060112113446im_/http://g-images.amazon.com/images/G/01/x-locale/common/icons/eyebrow-upper-right-corner.gif" width="5" height="5" border="0"></td>
 </tr>
 </tbody></table>
 </td>
@@ -375,82 +471,82 @@ color: #FFFFFF;
 <td> <table border="0" width="180" cellpadding="1" cellspacing="0" bgcolor="#708090"><tbody><tr> <td width="100%"><table width="100%" border="0" cellpadding="4" cellspacing="0" bgcolor="#708090"><tbody><tr> <td bgcolor="#ffffff" valign="top" width="100%">
 <table width="170" border="0" cellpadding="0" cellspacing="0">
 <tbody><tr> <td class="small">
-<a href="/web/20060111190728/http://amazon.com/exec/obidos/flex-sign-in/?page=personalization/favorites/favorites-sign-in-secure.html&amp;response=favorites-edit/personalization/favorites/edit-areas.html&amp;pass_through=product-group-id.gateway.gateway&amp;method=GET"><img src="http://web.archive.org/web/20060111190728im_/http://g-images.amazon.com/images/G/01/x-locale/personalization/add-favorites.gif" width="84" height="16" border="0"></a>
+<a href="/web/20060112113446/http://www.amazon.com/exec/obidos/flex-sign-in/103-3640082-9615854?page=personalization/favorites/favorites-sign-in-secure.html&amp;response=favorites-edit/personalization/favorites/edit-areas.html&amp;pass_through=product-group-id.gateway.gateway&amp;method=GET"><img src="http://web.archive.org/web/20060112113446im_/http://g-images.amazon.com/images/G/01/x-locale/personalization/add-favorites.gif" width="84" height="16" border="0"></a>
 <br><b class="h3color">Featured Stores</b>
-<span class="tiny"><font color="#003399"><br>•</font></span>&nbsp;<a href="/web/20060111190728/http://amazon.com/exec/obidos/tg/browse/-/1036592">Apparel &amp; Accessories</a>
-<span class="tiny"><font color="#003399"><br>•</font></span>&nbsp;<a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/gp/browse.html?node=3760911">Beauty</a>
-<span class="tiny"><font color="#003399"><br>•</font></span>&nbsp;<a href="/web/20060111190728/http://amazon.com/exec/obidos/tg/browse/-/163450">DVD's TV Central</a>
-<span class="tiny"><font color="#003399"><br>•</font></span>&nbsp;<a href="/web/20060111190728/http://amazon.com/exec/obidos/tg/browse/-/172282">Electronics</a>
-<span class="tiny"><font color="#003399"><br>•</font></span>&nbsp;<a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/gp/browse.html?node=3370831">Gourmet Food</a>
-<span class="tiny"><font color="#003399"><br>•</font></span>&nbsp;<a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/gp/browse.html?node=3367581">Jewelry &amp; Watches</a>
-<span class="tiny"><font color="#003399"><br>•</font></span>&nbsp;<a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/gp/browse.html?node=1040668">Shoes</a>
-<span class="tiny"><font color="#003399"><br>•</font></span>&nbsp;<a href="/web/20060111190728/http://amazon.com/exec/obidos/tg/browse/-/465600">Textbooks</a>
+<span class="tiny"><font color="#003399"><br>•</font></span>&nbsp;<a href="/web/20060112113446/http://www.amazon.com/exec/obidos/tg/browse/-/1036592/ref=gw_br_ap/103-3640082-9615854">Apparel &amp; Accessories</a>
+<span class="tiny"><font color="#003399"><br>•</font></span>&nbsp;<a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/gp/browse.html/ref=gw_br_bty/103-3640082-9615854?node=3760911">Beauty</a>
+<span class="tiny"><font color="#003399"><br>•</font></span>&nbsp;<a href="/web/20060112113446/http://www.amazon.com/exec/obidos/tg/browse/-/163450/ref=gw_br_tv/103-3640082-9615854">DVD's TV Central</a>
+<span class="tiny"><font color="#003399"><br>•</font></span>&nbsp;<a href="/web/20060112113446/http://www.amazon.com/exec/obidos/tg/browse/-/172282/ref=gw_br_el/103-3640082-9615854">Electronics</a>
+<span class="tiny"><font color="#003399"><br>•</font></span>&nbsp;<a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/gp/browse.html/ref=gw_br_gf/103-3640082-9615854?node=3370831">Gourmet Food</a>
+<span class="tiny"><font color="#003399"><br>•</font></span>&nbsp;<a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/gp/browse.html/ref=gw_br_jw/103-3640082-9615854?node=3367581">Jewelry &amp; Watches</a>
+<span class="tiny"><font color="#003399"><br>•</font></span>&nbsp;<a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/gp/browse.html/ref=gw_br_sh/103-3640082-9615854?node=1040668">Shoes</a>
+<span class="tiny"><font color="#003399"><br>•</font></span>&nbsp;<a href="/web/20060112113446/http://www.amazon.com/exec/obidos/tg/browse/-/465600/ref=gw_br_txb/103-3640082-9615854">Textbooks</a>
 <br><br><font color="#CC6600"><b>New Stores </b></font><br>
-<span class="tiny">In Beta (<a href="/web/20060111190728/http://amazon.com/exec/obidos/subst/misc/beta-launch-pop-up.html/?ref=gw_br_hpc" target="AmazonHelp" onclick="amz_js_PopWin('/exec/obidos/subst/misc/beta-launch-pop-up.html/?ref=gw_br_beta','AmazonHelp','width=400,height=400,resizable=yes,scrollbars=yes,toolbar=yes,status=yes');return false;">What's this?</a>)</span>
-<span class="tiny"><font color="#003399"><br>•</font></span>&nbsp;<a href="/web/20060111190728/http://amazon.com/exec/obidos/tg/browse/-/15684181">Automotive</a>
-<span class="tiny"><font color="#003399"><br>•</font></span>&nbsp;<a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/gp/browse.html?node=11091801">Musical Instruments</a>
-<span class="tiny"><font color="#003399"><br>•</font></span>&nbsp;<a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/gp/browse.html?node=3760901">Health &amp; Personal Care</a>
-<span class="tiny"><font color="#003399"><br>•</font></span>&nbsp;<a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/gp/browse.html?node=3999141">Yellow Pages</a>
+<span class="tiny">In Beta (<a href="/web/20060112113446/http://www.amazon.com/exec/obidos/subst/misc/beta-launch-pop-up.html/103-3640082-9615854?ref=gw_br_hpc" target="AmazonHelp" onclick="amz_js_PopWin('/exec/obidos/subst/misc/beta-launch-pop-up.html/103-3640082-9615854?ref=gw_br_beta','AmazonHelp','width=400,height=400,resizable=yes,scrollbars=yes,toolbar=yes,status=yes');return false;">What's this?</a>)</span>
+<span class="tiny"><font color="#003399"><br>•</font></span>&nbsp;<a href="/web/20060112113446/http://www.amazon.com/exec/obidos/tg/browse/-/15684181/ref=gw_br_au/103-3640082-9615854">Automotive</a>
+<span class="tiny"><font color="#003399"><br>•</font></span>&nbsp;<a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/gp/browse.html/ref=gw_br_mi/103-3640082-9615854?node=11091801">Musical Instruments</a>
+<span class="tiny"><font color="#003399"><br>•</font></span>&nbsp;<a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/gp/browse.html/ref=gw_br_hpc/103-3640082-9615854?node=3760901">Health &amp; Personal Care</a>
+<span class="tiny"><font color="#003399"><br>•</font></span>&nbsp;<a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/gp/browse.html/ref=gw_br_sg/103-3640082-9615854?node=3999141">Yellow Pages</a>
 <br><br><b class="h3color">Books, Music, DVD</b>
-<span class="tiny"><font color="#003399"><br>•</font></span>&nbsp;<a href="/web/20060111190728/http://amazon.com/exec/obidos/tg/browse/-/283155">Books</a>
-<span class="tiny"><font color="#003399"><br>•</font></span>&nbsp;<a href="/web/20060111190728/http://amazon.com/exec/obidos/tg/browse/-/130">DVD</a>
-<span class="tiny"><font color="#003399"><br>•</font></span>&nbsp;<a href="/web/20060111190728/http://amazon.com/exec/obidos/tg/browse/-/599858">Magazine</a> <br><span class="tiny">&nbsp;</span>&nbsp;<a href="/web/20060111190728/http://amazon.com/exec/obidos/tg/browse/-/599858">Subscriptions</a>
-<span class="tiny"><font color="#003399"><br>•</font></span>&nbsp;<a href="/web/20060111190728/http://amazon.com/exec/obidos/tg/browse/-/5174">Music</a>
-<span class="tiny"><font color="#003399"><br>•</font></span>&nbsp;<a href="/web/20060111190728/http://amazon.com/exec/obidos/tg/browse/-/404272">Video</a>
-<span class="tiny"><font color="#003399"><br>•</font></span>&nbsp;<a href="/web/20060111190728/http://amazon.com/exec/obidos/tg/browse/-/13993911">Amazon Shorts</a>
+<span class="tiny"><font color="#003399"><br>•</font></span>&nbsp;<a href="/web/20060112113446/http://www.amazon.com/exec/obidos/tg/browse/-/283155/ref=gw_br_bo/103-3640082-9615854">Books</a>
+<span class="tiny"><font color="#003399"><br>•</font></span>&nbsp;<a href="/web/20060112113446/http://www.amazon.com/exec/obidos/tg/browse/-/130/ref=gw_br_dvd/103-3640082-9615854">DVD</a>
+<span class="tiny"><font color="#003399"><br>•</font></span>&nbsp;<a href="/web/20060112113446/http://www.amazon.com/exec/obidos/tg/browse/-/599858/ref=gw_br_zi/103-3640082-9615854">Magazine</a> <br><span class="tiny">&nbsp;</span>&nbsp;<a href="/web/20060112113446/http://www.amazon.com/exec/obidos/tg/browse/-/599858/ref=gw_br_zi/103-3640082-9615854">Subscriptions</a>
+<span class="tiny"><font color="#003399"><br>•</font></span>&nbsp;<a href="/web/20060112113446/http://www.amazon.com/exec/obidos/tg/browse/-/5174/ref=gw_br_mu/103-3640082-9615854">Music</a>
+<span class="tiny"><font color="#003399"><br>•</font></span>&nbsp;<a href="/web/20060112113446/http://www.amazon.com/exec/obidos/tg/browse/-/404272/ref=gw_br_vi/103-3640082-9615854">Video</a>
+<span class="tiny"><font color="#003399"><br>•</font></span>&nbsp;<a href="/web/20060112113446/http://www.amazon.com/exec/obidos/tg/browse/-/13993911/ref=gw_br_shrts/103-3640082-9615854">Amazon Shorts</a>
 <br><br><b class="h3color">Electronics &amp; Office</b>
-<span class="tiny"><font color="#003399"><br>•</font></span>&nbsp;<a href="/web/20060111190728/http://amazon.com/exec/obidos/tg/browse/-/172282">Electronics</a>
-<span class="tiny"><font color="#003399"><br>•</font></span>&nbsp;<a href="/web/20060111190728/http://amazon.com/exec/obidos/tg/browse/-/1065836">Audio &amp; Video</a>
-<span class="tiny"><font color="#003399"><br>•</font></span>&nbsp;<a href="/web/20060111190728/http://amazon.com/exec/obidos/tg/browse/-/502394">Camera &amp; Photo</a>
-<span class="tiny"><font color="#003399"><br>•</font></span>&nbsp;<a href="/web/20060111190728/http://amazon.com/exec/obidos/tg/browse/-/1064954">Office Products</a>
-<span class="tiny"><font color="#003399"><br>•</font></span>&nbsp;<a href="/web/20060111190728/http://amazon.com/exec/obidos/tg/browse/-/229534">Software</a>
-<span class="tiny"><font color="#003399"><br>•</font></span>&nbsp;<a href="/web/20060111190728/http://amazon.com/exec/obidos/tg/browse/-/468642">Computer &amp;</a><br><span class="tiny">&nbsp;</span>&nbsp;<a href="/web/20060111190728/http://amazon.com/exec/obidos/tg/browse/-/468642">Video Games</a>
-<span class="tiny"><font color="#003399"><br>•</font></span>&nbsp;<a href="/web/20060111190728/http://amazon.com/exec/obidos/tg/browse/-/541966">Computers</a>
-<span class="tiny"><font color="#003399"><br>•</font></span>&nbsp;<a href="/web/20060111190728/http://amazon.com/exec/obidos/tg/browse/-/301185">Cell Phones &amp; Service</a>
+<span class="tiny"><font color="#003399"><br>•</font></span>&nbsp;<a href="/web/20060112113446/http://www.amazon.com/exec/obidos/tg/browse/-/172282/ref=gw_br_el/103-3640082-9615854">Electronics</a>
+<span class="tiny"><font color="#003399"><br>•</font></span>&nbsp;<a href="/web/20060112113446/http://www.amazon.com/exec/obidos/tg/browse/-/1065836/ref=gw_br_av/103-3640082-9615854">Audio &amp; Video</a>
+<span class="tiny"><font color="#003399"><br>•</font></span>&nbsp;<a href="/web/20060112113446/http://www.amazon.com/exec/obidos/tg/browse/-/502394/ref=gw_br_p/103-3640082-9615854">Camera &amp; Photo</a>
+<span class="tiny"><font color="#003399"><br>•</font></span>&nbsp;<a href="/web/20060112113446/http://www.amazon.com/exec/obidos/tg/browse/-/1064954/ref=gw_br_op/103-3640082-9615854">Office Products</a>
+<span class="tiny"><font color="#003399"><br>•</font></span>&nbsp;<a href="/web/20060112113446/http://www.amazon.com/exec/obidos/tg/browse/-/229534/ref=gw_br_sw/103-3640082-9615854">Software</a>
+<span class="tiny"><font color="#003399"><br>•</font></span>&nbsp;<a href="/web/20060112113446/http://www.amazon.com/exec/obidos/tg/browse/-/468642/ref=gw_br_cvg/103-3640082-9615854">Computer &amp;</a><br><span class="tiny">&nbsp;</span>&nbsp;<a href="/web/20060112113446/http://www.amazon.com/exec/obidos/tg/browse/-/468642/ref=gw_br_cvg/103-3640082-9615854">Video Games</a>
+<span class="tiny"><font color="#003399"><br>•</font></span>&nbsp;<a href="/web/20060112113446/http://www.amazon.com/exec/obidos/tg/browse/-/541966/ref=gw_br_pc/103-3640082-9615854">Computers</a>
+<span class="tiny"><font color="#003399"><br>•</font></span>&nbsp;<a href="/web/20060112113446/http://www.amazon.com/exec/obidos/tg/browse/-/301185/ref=gw_br_wi/103-3640082-9615854">Cell Phones &amp; Service</a>
 <br><br><b class="h3color">Kids &amp; Baby</b>
-<span class="tiny"><font color="#003399"><br>•</font></span>&nbsp;<a href="/web/20060111190728/http://amazon.com/exec/obidos/tg/browse/-/171280">Toys &amp; Games</a>
-<span class="tiny"><font color="#003399"><br>•</font></span>&nbsp;<a href="/web/20060111190728/http://amazon.com/exec/obidos/tg/browse/-/540744">Baby</a>
-<span class="tiny"><font color="#003399"><br>•</font></span>&nbsp;<a href="/web/20060111190728/http://amazon.com/exec/obidos/tg/browse/-/585496">Imaginarium</a>
+<span class="tiny"><font color="#003399"><br>•</font></span>&nbsp;<a href="/web/20060112113446/http://www.amazon.com/exec/obidos/tg/browse/-/171280/ref=gw_br_tg/103-3640082-9615854">Toys &amp; Games</a>
+<span class="tiny"><font color="#003399"><br>•</font></span>&nbsp;<a href="/web/20060112113446/http://www.amazon.com/exec/obidos/tg/browse/-/540744/ref=br_ba/103-3640082-9615854">Baby</a>
+<span class="tiny"><font color="#003399"><br>•</font></span>&nbsp;<a href="/web/20060112113446/http://www.amazon.com/exec/obidos/tg/browse/-/585496/ref=br_img/103-3640082-9615854">Imaginarium</a>
 <br><br><b class="h3color">Home &amp; Garden</b>
-<span class="tiny"><font color="#003399"><br>•</font></span>&nbsp;<a href="/web/20060111190728/http://amazon.com/exec/obidos/tg/browse/-/1057792">Bed &amp; Bath</a>
-<span class="tiny"><font color="#003399"><br>•</font></span>&nbsp;<a href="/web/20060111190728/http://amazon.com/exec/obidos/tg/browse/-/1057794">Furniture &amp; Décor</a>
-<span class="tiny"><font color="#003399"><br>•</font></span>&nbsp;<a href="/web/20060111190728/http://amazon.com/exec/obidos/tg/browse/-/1055398">Home &amp; Garden</a>
-<span class="tiny"><font color="#003399"><br>•</font></span>&nbsp;<a href="/web/20060111190728/http://amazon.com/exec/obidos/tg/browse/-/284507">Kitchen &amp; Housewares</a>
-<span class="tiny"><font color="#003399"><br>•</font></span>&nbsp;<a href="/web/20060111190728/http://amazon.com/exec/obidos/tg/browse/-/286168">Outdoor Living</a>
-<span class="tiny"><font color="#003399"><br>•</font></span>&nbsp;<a href="/web/20060111190728/http://amazon.com/exec/obidos/tg/browse/-/12923371">Pet Supplies</a>
-<span class="tiny"><font color="#003399"><br>•</font></span>&nbsp;<a href="/web/20060111190728/http://amazon.com/exec/obidos/tg/browse/-/228013">Tools &amp; Hardware</a>
+<span class="tiny"><font color="#003399"><br>•</font></span>&nbsp;<a href="/web/20060112113446/http://www.amazon.com/exec/obidos/tg/browse/-/1057792/ref=gw_br_bb/103-3640082-9615854">Bed &amp; Bath</a>
+<span class="tiny"><font color="#003399"><br>•</font></span>&nbsp;<a href="/web/20060112113446/http://www.amazon.com/exec/obidos/tg/browse/-/1057794/ref=gw_br_fd/103-3640082-9615854">Furniture &amp; Décor</a>
+<span class="tiny"><font color="#003399"><br>•</font></span>&nbsp;<a href="/web/20060112113446/http://www.amazon.com/exec/obidos/tg/browse/-/1055398/ref=gw_br_hg/103-3640082-9615854">Home &amp; Garden</a>
+<span class="tiny"><font color="#003399"><br>•</font></span>&nbsp;<a href="/web/20060112113446/http://www.amazon.com/exec/obidos/tg/browse/-/284507/ref=gw_br_ki/103-3640082-9615854">Kitchen &amp; Housewares</a>
+<span class="tiny"><font color="#003399"><br>•</font></span>&nbsp;<a href="/web/20060112113446/http://www.amazon.com/exec/obidos/tg/browse/-/286168/ref=gw_br_lp/103-3640082-9615854">Outdoor Living</a>
+<span class="tiny"><font color="#003399"><br>•</font></span>&nbsp;<a href="/web/20060112113446/http://www.amazon.com/exec/obidos/tg/browse/-/12923371/ref=gw_br_lp/103-3640082-9615854">Pet Supplies</a>
+<span class="tiny"><font color="#003399"><br>•</font></span>&nbsp;<a href="/web/20060112113446/http://www.amazon.com/exec/obidos/tg/browse/-/228013/ref=gw_br_hi/103-3640082-9615854">Tools &amp; Hardware</a>
 <br><br><b class="h3color">Sports &amp; Fitness</b>
-<span class="tiny"><font color="#003399"><br>•</font></span>&nbsp;<a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/gp/browse.html?node=3407731">Exercise &amp; Fitness</a>
-<span class="tiny"><font color="#003399"><br>•</font></span>&nbsp;<a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/gp/browse.html?node=3375251">Sports &amp; Outdoors</a>
+<span class="tiny"><font color="#003399"><br>•</font></span>&nbsp;<a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/gp/browse.html/ref=gw_br_ef/103-3640082-9615854?node=3407731">Exercise &amp; Fitness</a>
+<span class="tiny"><font color="#003399"><br>•</font></span>&nbsp;<a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/gp/browse.html/ref=gw_br_sg/103-3640082-9615854?node=3375251">Sports &amp; Outdoors</a>
 <br><br><b class="h3color">Gifts &amp; Registries</b>
-<span class="tiny"><font color="#003399"><br>•</font></span>&nbsp;<a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/gp/registry/babyreg">Baby Registry</a>
-<span class="tiny"><font color="#003399"><br>•</font></span>&nbsp;<a href="/web/20060111190728/http://amazon.com/exec/obidos/tg/browse/-/225840">Free e-Cards</a>
-<span class="tiny"><font color="#003399"><br>•</font></span>&nbsp;<a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/gp/product/B00067L6TQ">Gift Certificates</a>
-<span class="tiny"><font color="#003399"><br>•</font></span>&nbsp;<a href="/web/20060111190728/http://amazon.com/exec/obidos/tg/browse/-/229220">Gift Store<br></a>
-<span class="tiny"><font color="#003399">•</font></span>&nbsp;<a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/gp/registry/wedding-homepage.html">Wedding Registry<br></a>
-<span class="tiny"><font color="#003399">•</font></span>&nbsp;<a href="/web/20060111190728/http://amazon.com/exec/obidos/registry/wishlist">Wish List</a>
+<span class="tiny"><font color="#003399"><br>•</font></span>&nbsp;<a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/gp/registry/babyreg/ref=br_breg/103-3640082-9615854">Baby Registry</a>
+<span class="tiny"><font color="#003399"><br>•</font></span>&nbsp;<a href="/web/20060112113446/http://www.amazon.com/exec/obidos/tg/browse/-/225840/ref=br_fecars/103-3640082-9615854">Free e-Cards</a>
+<span class="tiny"><font color="#003399"><br>•</font></span>&nbsp;<a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/gp/product/B00067L6TQ/ref=br_gcer/103-3640082-9615854">Gift Certificates</a>
+<span class="tiny"><font color="#003399"><br>•</font></span>&nbsp;<a href="/web/20060112113446/http://www.amazon.com/exec/obidos/tg/browse/-/229220/ref=br_gstore/103-3640082-9615854">Gift Store<br></a>
+<span class="tiny"><font color="#003399">•</font></span>&nbsp;<a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/gp/registry/wedding-homepage.html/ref=br_wedr/103-3640082-9615854">Wedding Registry<br></a>
+<span class="tiny"><font color="#003399">•</font></span>&nbsp;<a href="/web/20060112113446/http://www.amazon.com/exec/obidos/registry/wishlist/ref=br_wlis/103-3640082-9615854">Wish List</a>
 <br><br><b class="h3color">Amazon.com<br>Services</b>
-<span class="tiny"><font color="#003399"><br>•</font></span>&nbsp;<a href="/web/20060111190728/http://amazon.com/exec/obidos/tg/browse/-/562436">Movie Showtimes</a>
-<span class="tiny"><font color="#003399"><br>•</font></span>&nbsp;<a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/gp/browse.html?node=3999141">Yellow Pages</a>
-<span class="tiny"><font color="#003399"><br>•</font></span>&nbsp;<a href="/web/20060111190728/http://amazon.com/exec/obidos/tg/browse/-/600460">Corporate Accounts</a>
-<span class="tiny"><font color="#003399"><br>•</font></span>&nbsp;<a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/gp/pdp">Your Amazon Home</a>
-<span class="tiny"><font color="#003399"><br>•</font></span>&nbsp;<a href="/web/20060111190728/http://amazon.com/exec/obidos/search-handle-url/ispu=1&amp;field-browse=1161764/">In-Store Pickup</a>
-<span class="tiny"><font color="#003399"><br>•</font></span>&nbsp;<a href="/web/20060111190728/http://amazon.com/exec/obidos/tg/browse/-/605012">Travel</a>
+<span class="tiny"><font color="#003399"><br>•</font></span>&nbsp;<a href="/web/20060112113446/http://www.amazon.com/exec/obidos/tg/browse/-/562436/ref=gw_br_th/103-3640082-9615854">Movie Showtimes</a>
+<span class="tiny"><font color="#003399"><br>•</font></span>&nbsp;<a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/gp/browse.html/ref=gw_br_sg/103-3640082-9615854?node=3999141">Yellow Pages</a>
+<span class="tiny"><font color="#003399"><br>•</font></span>&nbsp;<a href="/web/20060112113446/http://www.amazon.com/exec/obidos/tg/browse/-/600460/ref=gw_br_cb/103-3640082-9615854">Corporate Accounts</a>
+<span class="tiny"><font color="#003399"><br>•</font></span>&nbsp;<a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/gp/pdp/ref=br_fri/103-3640082-9615854">Your Amazon Home</a>
+<span class="tiny"><font color="#003399"><br>•</font></span>&nbsp;<a href="/web/20060112113446/http://www.amazon.com/exec/obidos/search-handle-url/ispu=1&amp;field-browse=1161764/103-3640082-9615854">In-Store Pickup</a>
+<span class="tiny"><font color="#003399"><br>•</font></span>&nbsp;<a href="/web/20060112113446/http://www.amazon.com/exec/obidos/tg/browse/-/605012/ref=gw_br_tr/103-3640082-9615854">Travel</a>
 <br><br><b class="h3color">Bargains</b>
-<span class="tiny"><font color="#003399"><br>•</font></span>&nbsp;<a href="http://web.archive.org/web/20060111190728/http://s1.amazon.com/exec/varzea/subst/home/home.html">Auctions</a>
-<span class="tiny"><font color="#003399"><br>•</font></span>&nbsp;<a href="/web/20060111190728/http://amazon.com/exec/obidos/tg/browse/-/45">Bargain Books</a>
-<span class="tiny"><font color="#003399"><br>•</font></span>&nbsp;<a href="/web/20060111190728/http://amazon.com/exec/obidos/tg/browse/-/517808">Outlet</a>
-<span class="tiny"><font color="#003399"><br>•</font></span>&nbsp;<a href="/web/20060111190728/http://amazon.com/exec/obidos/tg/browse/-/603224">Used<br></a>
-<span class="tiny"><font color="#003399">•</font></span>&nbsp;<a href="http://web.archive.org/web/20060111190728/http://s1.amazon.com/exec/varzea/subst/home/fixed.html">zShops</a>
+<span class="tiny"><font color="#003399"><br>•</font></span>&nbsp;<a href="http://web.archive.org/web/20060112113446/http://s1.amazon.com/exec/varzea/subst/home/home.html/ref=gw_br_au/103-3640082-9615854">Auctions</a>
+<span class="tiny"><font color="#003399"><br>•</font></span>&nbsp;<a href="/web/20060112113446/http://www.amazon.com/exec/obidos/tg/browse/-/45/ref=gw_br_bb/103-3640082-9615854">Bargain Books</a>
+<span class="tiny"><font color="#003399"><br>•</font></span>&nbsp;<a href="/web/20060112113446/http://www.amazon.com/exec/obidos/tg/browse/-/517808/ref=gw_br_ou/103-3640082-9615854">Outlet</a>
+<span class="tiny"><font color="#003399"><br>•</font></span>&nbsp;<a href="/web/20060112113446/http://www.amazon.com/exec/obidos/tg/browse/-/603224/ref=br_ut/103-3640082-9615854">Used<br></a>
+<span class="tiny"><font color="#003399">•</font></span>&nbsp;<a href="http://web.archive.org/web/20060112113446/http://s1.amazon.com/exec/varzea/subst/home/fixed.html/ref=gw_br_zs/103-3640082-9615854">zShops</a>
 <br><br><b class="h3color">Featured Partners</b>
-<br>&nbsp;<a href="/web/20060111190728/http://amazon.com/exec/obidos/redirect-to-external-url?path=http%3A//clk.atdmt.com/AVE/go/cpblswwa0470000026ave/direct%3Bwi.135%3Bhi.15/01"><img src="http://web.archive.org/web/20060111190728im_/http://g-images.amazon.com/images/G/01/hpc/weight-watchers-logo.gif" width="139" height="30" border="0" alt="WeightWatchers"></a>
-<br>&nbsp;<a href="/web/20060111190728/http://amazon.com/exec/obidos/redirect-to-external-url?path=http%3A//www.tirerack.com/a.jsp%3Fa%3DFB1%26url%3D/index%5Famazon.jsp"><img src="http://web.archive.org/web/20060111190728im_/http://g-images.amazon.com/images/G/01/merchants/logos/tirerack_120x25.gif" width="120" height="25" border="0" alt="tirerack.com"></a>
-<br>&nbsp;<a href="/web/20060111190728/http://amazon.com/exec/obidos/redirect-to-external-url?path=http%3A//www.wine.com/promos/amazonwine.asp%3Fan%3Damazon%26s%3Damazon%26cid%3Damazon%5Fgateway%5Ffpbox"><img src="http://web.archive.org/web/20060111190728im_/http://g-images.amazon.com/images/G/01/gourmet/winecom_logo_120.gif" width="120" height="30" border="0" alt="wine.com"></a>
-<br>&nbsp;<a href="/web/20060111190728/http://amazon.com/exec/obidos/tg/browse/-/540744"><img src="http://web.archive.org/web/20060111190728im_/http://g-images.amazon.com/images/G/01/toys/navigation/bru-logo.gif" width="111" height="20" border="0" alt="Babiesrus.com"></a>
-<br>&nbsp;<a href="/web/20060111190728/http://amazon.com/exec/obidos/tg/browse/-/1064952"><img src="http://web.archive.org/web/20060111190728im_/http://g-images.amazon.com/images/G/01/merchants/logos/od-logo-143.gif" width="143" height="18" border="0" alt="Office" depot=""></a>
-<br>&nbsp;<a href="/web/20060111190728/http://amazon.com/exec/obidos/tg/browse/-/700060"><img src="http://web.archive.org/web/20060111190728im_/http://g-images.amazon.com/images/G/01/target/target-logo-sm.gif" width="71" height="17" border="0" alt="Target"></a>
-<br>&nbsp;<a href="/web/20060111190728/http://amazon.com/exec/obidos/tg/browse/-/171280"><img src="http://web.archive.org/web/20060111190728im_/http://g-images.amazon.com/images/G/01/toys/navigation/tru-logo.gif" width="102" height="30" border="0" alt="Toysrus.com"></a>
-<br>&nbsp;<a href="/web/20060111190728/http://amazon.com/exec/obidos/redirect-to-partner?name=shutterfly"><img src="http://web.archive.org/web/20060111190728im_/http://g-images.amazon.com/images/G/01/merchants/logos/shutterfly-logo-90x30.gif" width="90" height="30" border="0" alt="Shutterfly"></a>
+<br>&nbsp;<a href="/web/20060112113446/http://www.amazon.com/exec/obidos/redirect-to-external-url/ref=gw_br_weight/103-3640082-9615854?path=http%3A//clk.atdmt.com/AVE/go/cpblswwa0470000026ave/direct%3Bwi.135%3Bhi.15/01"><img src="http://web.archive.org/web/20060112113446im_/http://g-images.amazon.com/images/G/01/hpc/weight-watchers-logo.gif" width="139" height="30" border="0" alt="WeightWatchers"></a>
+<br>&nbsp;<a href="/web/20060112113446/http://www.amazon.com/exec/obidos/redirect-to-external-url/ref=gw_br_track/103-3640082-9615854?path=http%3A//www.tirerack.com/a.jsp%3Fa%3DFB1%26url%3D/index%5Famazon.jsp"><img src="http://web.archive.org/web/20060112113446im_/http://g-images.amazon.com/images/G/01/merchants/logos/tirerack_120x25.gif" width="120" height="25" border="0" alt="tirerack.com"></a>
+<br>&nbsp;<a href="/web/20060112113446/http://www.amazon.com/exec/obidos/redirect-to-external-url/ref=gf_gw_wine/103-3640082-9615854?path=http%3A//www.wine.com/promos/amazonwine.asp%3Fan%3Damazon%26s%3Damazon%26cid%3Damazon%5Fgateway%5Ffpbox"><img src="http://web.archive.org/web/20060112113446im_/http://g-images.amazon.com/images/G/01/gourmet/winecom_logo_120.gif" width="120" height="30" border="0" alt="wine.com"></a>
+<br>&nbsp;<a href="/web/20060112113446/http://www.amazon.com/exec/obidos/tg/browse/-/540744/ref=gw_brub_STE/103-3640082-9615854"><img src="http://web.archive.org/web/20060112113446im_/http://g-images.amazon.com/images/G/01/toys/navigation/bru-logo.gif" width="111" height="20" border="0" alt="Babiesrus.com"></a>
+<br>&nbsp;<a href="/web/20060112113446/http://www.amazon.com/exec/obidos/tg/browse/-/1064952/ref=gw_ofdb_/103-3640082-9615854"><img src="http://web.archive.org/web/20060112113446im_/http://g-images.amazon.com/images/G/01/merchants/logos/od-logo-143.gif" width="143" height="18" border="0" alt="Office" depot=""></a>
+<br>&nbsp;<a href="/web/20060112113446/http://www.amazon.com/exec/obidos/tg/browse/-/700060/ref=gw_tarb_/103-3640082-9615854"><img src="http://web.archive.org/web/20060112113446im_/http://g-images.amazon.com/images/G/01/target/target-logo-sm.gif" width="71" height="17" border="0" alt="Target"></a>
+<br>&nbsp;<a href="/web/20060112113446/http://www.amazon.com/exec/obidos/tg/browse/-/171280/ref=gw_trub_STE/103-3640082-9615854"><img src="http://web.archive.org/web/20060112113446im_/http://g-images.amazon.com/images/G/01/toys/navigation/tru-logo.gif" width="102" height="30" border="0" alt="Toysrus.com"></a>
+<br>&nbsp;<a href="/web/20060112113446/http://www.amazon.com/exec/obidos/redirect-to-partner/ref=ce_stf_gw/?name=shutterfly&amp;ref=ce_stf_gw/103-3640082-9615854"><img src="http://web.archive.org/web/20060112113446im_/http://g-images.amazon.com/images/G/01/merchants/logos/shutterfly-logo-90x30.gif" width="90" height="30" border="0" alt="Shutterfly"></a>
 </td>
 </tr>
 </tbody></table>
@@ -458,17 +554,17 @@ color: #FFFFFF;
 </tr>
 </tbody></table> <br clear="left">
 <table border="0" width="180" cellpadding="1" cellspacing="0" bgcolor="#99CC00" align="right"><tbody><tr> <td width="100%"><table width="100%" border="0" cellpadding="4" cellspacing="0" bgcolor="#99CC00"><tbody><tr> <td bgcolor="#ffffff" valign="top" width="100%">
-<img src="http://web.archive.org/web/20060111190728im_/http://g-images.amazon.com/images/G/01/associates/make-money/homepage/make-money-tiger-box-header-163x19.gif" width="163" height="19" border="0">
+<img src="http://web.archive.org/web/20060112113446im_/http://g-images.amazon.com/images/G/01/associates/make-money/homepage/make-money-tiger-box-header-163x19.gif" width="163" height="19" border="0">
 <br> <span class="small">
 <ul>
-<li><a href="/web/20060111190728/http://amazon.com/exec/obidos/subst/misc/sell-your-stuff.html">Marketplace</a></li>
-<li><a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/gp/browse.html//?node=3435371">Associates</a></li>
-<li><a href="/web/20060111190728/http://amazon.com/exec/obidos/subst/partners/direct/direct-application.html">Advantage</a></li>
-<li><a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/gp/aws/landing.html">Web Services</a></li>
-<li><a href="/web/20060111190728/http://amazon.com/exec/obidos/subst/misc/co-op/small-vendor-info.html">Paid Placements</a></li>
+<li><a href="/web/20060112113446/http://www.amazon.com/exec/obidos/subst/misc/sell-your-stuff.html/ref=gw1_mm_1/103-3640082-9615854">Marketplace</a></li>
+<li><a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/gp/browse.html/ref=gw1_mm_2/103-3640082-9615854/?node=3435371">Associates</a></li>
+<li><a href="/web/20060112113446/http://www.amazon.com/exec/obidos/subst/partners/direct/direct-application.html/ref=gw1_mm_3/103-3640082-9615854">Advantage</a></li>
+<li><a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/gp/aws/landing.html/ref=gw1_mm_4/103-3640082-9615854">Web Services</a></li>
+<li><a href="/web/20060112113446/http://www.amazon.com/exec/obidos/subst/misc/co-op/small-vendor-info.html/ref=gw1_mm_5/103-3640082-9615854">Paid Placements</a></li>
 </ul>
-<img src="http://web.archive.org/web/20060111190728im_/http://g-images.amazon.com/images/G/01/marketing/orange-arrow.gif" width="10" height="9" border="0">
-<a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/gp/browse.html?node=3309511">See all services</a>
+<img src="http://web.archive.org/web/20060112113446im_/http://g-images.amazon.com/images/G/01/marketing/orange-arrow.gif" width="10" height="9" border="0">
+<a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/gp/browse.html/ref=gw1_mm_6/103-3640082-9615854?node=3309511">See all services</a>
 <br><br>
 </span>
 </td> </tr> </tbody></table> </td> </tr> </tbody></table> <br clear="all"><br>
@@ -476,16 +572,16 @@ color: #FFFFFF;
 <b class="small">Special Features</b>
 <br>
 <ul class="small">
-<li><a href="/web/20060111190728/http://amazon.com/exec/obidos/subst/misc/anywhere/anywhere.html">Amazon.com Mobile Access</a>
-</li><li><a href="/web/20060111190728/http://amazon.com/exec/obidos/subst/misc/amazon-credit/marketing-page.html">Amazon Credit Account</a>
-</li><li><a href="/web/20060111190728/http://amazon.com/exec/obidos/tg/feature/-/423495">Early Adopters</a>
-</li><li><a href="/web/20060111190728/http://amazon.com/exec/obidos/tg/browse/-/225840">Free e-Cards</a>
-</li><li><a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/gp/pdp">Your Amazon Home</a>
-</li><li><a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/gp/product/B00067L6TQ">Gift Certificates</a><br>
-</li><li><a href="/web/20060111190728/http://amazon.com/exec/obidos/tg/browse/-/13786321">Giving at Amazon.com</a><br>
-</li><li><a href="http://web.archive.org/web/20060111190728/http://s1.amazon.com/exec/varzea/subst/fx/home.html">Honor System</a><br>
-</li><li><a href="/web/20060111190728/http://amazon.com/exec/obidos/subst/community/community.html">Purchase Circles</a><br>
-</li><li><a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/gp/registry/wedding-homepage.html">Wedding Registry</a>
+<li><a href="/web/20060112113446/http://www.amazon.com/exec/obidos/subst/misc/anywhere/anywhere.html/ref=gw_hp_ls_1_2/103-3640082-9615854">Amazon.com Mobile Access</a>
+</li><li><a href="/web/20060112113446/http://www.amazon.com/exec/obidos/subst/misc/amazon-credit/marketing-page.html/ref=gw_hp_ls_1_4/103-3640082-9615854">Amazon Credit Account</a>
+</li><li><a href="/web/20060112113446/http://www.amazon.com/exec/obidos/tg/feature/-/423495/ref=gw_hp_ls_1_5/103-3640082-9615854">Early Adopters</a>
+</li><li><a href="/web/20060112113446/http://www.amazon.com/exec/obidos/tg/browse/-/225840/ref=gw_hp_ls_1_6/103-3640082-9615854">Free e-Cards</a>
+</li><li><a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/gp/pdp/ref=gw_hp_ls_1_7/103-3640082-9615854">Your Amazon Home</a>
+</li><li><a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/gp/product/B00067L6TQ/ref=gw_hp_ls_1_8/103-3640082-9615854">Gift Certificates</a><br>
+</li><li><a href="/web/20060112113446/http://www.amazon.com/exec/obidos/tg/browse/-/13786321/ref=gw_hp_ls_1_12/103-3640082-9615854">Giving at Amazon.com</a><br>
+</li><li><a href="http://web.archive.org/web/20060112113446/http://s1.amazon.com/exec/varzea/subst/fx/home.html/ref=gw_hp_ls_1_9/103-3640082-9615854">Honor System</a><br>
+</li><li><a href="/web/20060112113446/http://www.amazon.com/exec/obidos/subst/community/community.html/ref=gw_hp_ls_1_10/103-3640082-9615854">Purchase Circles</a><br>
+</li><li><a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/gp/registry/wedding-homepage.html/ref=gw_hp_ls_1_11/103-3640082-9615854">Wedding Registry</a>
 </li></ul>
 </td> </tr> </tbody></table> </td> </tr> </tbody></table> <br clear="all"><br>
 <table border="0" cellpadding="1" cellspacing="0" width="180">
@@ -494,9 +590,9 @@ color: #FFFFFF;
 <td><table bgcolor="#FFFFFF" border="0" cellpadding="4" cellspacing="0">
 <tbody>
 <tr>
-<td valign="top" bgcolor="#ffffff"><b class="small">Amazon.com Visa Card</b><a href="/web/20060111190728/http://amazon.com/exec/obidos/tg/visa/marketing/-/p/P/NO">
-<img src="http://web.archive.org/web/20060111190728im_/http://g-images.amazon.com/images/G/01/marketing/visa/2005/visa-card_tiny.gif" width="75" height="52" alt="Amazon.com Platinum Visa Credit card. Apply for the credit card and save." hspace="5" vspace="2" border="0" align="left">
-</a><div class="small"><a href="/web/20060111190728/http://amazon.com/exec/obidos/tg/visa/marketing/-/p/P/NO/ref=b1_login_pgraph_home">Apply for Amazon.com Platinum Visa credit card and save</a></div></td>
+<td valign="top" bgcolor="#ffffff"><b class="small">Amazon.com Visa Card</b><a href="/web/20060112113446/http://www.amazon.com/exec/obidos/tg/visa/marketing/-/p/P/NO/ref=b1_login_pgraph_home/103-3640082-9615854">
+<img src="http://web.archive.org/web/20060112113446im_/http://g-images.amazon.com/images/G/01/marketing/visa/2005/visa-card_tiny.gif" width="75" height="52" alt="Amazon.com Platinum Visa Credit card. Apply for the credit card and save." hspace="5" vspace="2" border="0" align="left">
+</a><div class="small"><a href="/web/20060112113446/http://www.amazon.com/exec/obidos/tg/visa/marketing/-/p/P/NO/ref=b1_login_pgraph_home">Apply for Amazon.com Platinum Visa credit card and save</a></div></td>
 </tr>
 </tbody>
 </table></td>
@@ -508,396 +604,450 @@ color: #FFFFFF;
 </td>
 <td width="10">&nbsp;</td>
 <td>
-<font face="verdana,arial,helvetica" size="-1"><font color="#CC6600"><b>Hello.</b></font>
-Sign in to get <a href="/web/20060111190728/http://amazon.com/exec/obidos/flex-sign-in?opt=a&amp;page=recs/sign-in-secure.html&amp;response=tg/recs/recs-post-login-dispatch/-/recs/pd_rw_gw_ur">personalized recommendations</a>. New customer? <a href="/web/20060111190728/http://amazon.com/exec/obidos/flex-sign-in?opt=oa&amp;page=recs/sign-in-secure.html&amp;response=tg/recs/recs-post-login-dispatch/-/recs">Start here</a>.
-</font>
-<br><br>
 <div class="small">
-<b class="h1">Up to $600 Cash Back on Canon--Final Week!</b><br clear="left">
-<a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/exec/obidos/tg/feature/-/580298">
-<img src="http://web.archive.org/web/20060111190728im_/http://images.amazon.com/images/P/B0007QKMQY.01.12TRZZZZ.jpg" width="121" height="104" align="left" valign="top" hspace="5" vspace="3" border="0">
-</a>Get cash back when you buy qualifying <a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/exec/obidos/tg/feature/-/580298">Canon SLR or digital SLR cameras, lenses, or PIXMA printers</a>. Double or triple your rebate amounts on each item--for totals of up to $600--when you buy two, three, or more qualifying items. Hurry--this offer ends on January 15.
-<p>
-<img src="http://web.archive.org/web/20060111190728im_/http://g-images.amazon.com/images/G/01/x-locale/common/orange-arrow.gif" width="10" height="9" border="0">&nbsp;
-<font face="verdana,arial,helvetica" size="-1"><a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/exec/obidos/tg/feature/-/580298">All eligible Canon products</a></font>
-</p></div>
+<center> <a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=ASIN%2F0525477330%2Fref%3Damb%5Fcenter%2D1%5F141357001%5F1%2F&amp;l=141357001&amp;c=141357001&amp;i=1586737538&amp;s=1"><img src="http://web.archive.org/web/20060112113446im_/http://g-images.amazon.com/images/G/01/books/tcg/paul-mccartney-short-tcg.gif" width="362" height="75" border="0" valign="top" align="center"></a> </center>
+<div align="center">
+<script language="JavaScript1.1">
+<!--
+var MM_contentVersion = 7;
+var plugin = (navigator.mimeTypes && navigator.mimeTypes["application/x-shockwave-flash"]) ? navigator.mimeTypes["application/x-shockwave-flash"].enabledPlugin :
+0;
+if ( plugin ) {
+var words = navigator.plugins["Shockwave Flash"].description.split(" ");
+for (var i = 0; i < words.length; ++i){
+if (isNaN(parseInt(words[i])))
+continue;
+var MM_PluginVersion = words[i];
+}
+var MM_FlashCanPlay = MM_PluginVersion >= MM_contentVersion; } else if (navigator.userAgent && navigator.userAgent.indexOf("MSIE")>=0
+&& (navigator.appVersion.indexOf("Win") != -1)) {
+document.write('<SCR' + 'IPT LANGUAGE=VBScript\> \n'); //FS hide this from IE4.5 Mac by splitting the tag
+document.write('on error resume next \n');
+document.write('MM_FlashCanPlay = ( IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash." & MM_contentVersion)))\n');
+document.write('</SCR' + 'IPT\> \n'); } //-->; </script>
+<map name="amazonFlash"></map>
+<script language="JavaScript1.1">
+<!--
+if ( MM_FlashCanPlay ) {
+document.write('<div id="movie" style="position:relative; top: 0px; left: 0px; margin: 0em; padding: 0em; width: 442; height: 254; padding: 0em;"><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://web.archive.org/web/20060112113446/http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,0,0" width="442" height="254" id="main" align="middle"><param name="allowScriptAccess" value="sameDomain" /><param name="movie" value="http://web.archive.org/web/20060112113446/http://images.amazon.com/media/i3d/01/specialdeliveriesomicron.swf?playerURL=%2Fgp%2Ffilm-festival%2Fgeneric%2Fplayer.html%3Ffoo%2D1%26xmlURL%3Dhttp%3A%2F%2Fimages.amazon.com%2Fimages%2FG%2F01%2Fmusic%2Fvideo%2Fplayer%2Fplease_please_me.playlist.2.html%26playlistTitle%3D%26playerTarget%3DmovieFrame%26bannerImage%3Dhttp://images.amazon.com/images/G/01/music/video/images/sony-footer.jpg%26autoplay%3D0%26stButton%3D0%26playerTitle%3DPlease, Please Me&playerTarget=movieFrame&playerFeatures=&playerTitle=Please, Please Me&advertStatus=0&autoPlay=0&trackNumber=0&movieID=5&xmlURL=http%3A%2F%2Fimages.amazon.com%2Fimages%2FG%2F01%2Fmusic%2Fvideo%2Fplayer%2Fplease_please_me.playlist.2.html&movieNumber=0&submitURL=http%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%0525477330" /><param name="quality" value="high" /><param name="bgcolor" value="#FFFFFF" /><embed src="http://web.archive.org/web/20060112113446/http://images.amazon.com/media/i3d/01/specialdeliveriesomicron.swf?playerURL=%2Fgp%2Ffilm-festival%2Fgeneric%2Fplayer.html%3Ffoo%2D1%26xmlURL%3Dhttp%3A%2F%2Fimages.amazon.com%2Fimages%2FG%2F01%2Fmusic%2Fvideo%2Fplayer%2Fplease_please_me.playlist.2.html%26playlistTitle%3D%26playerTarget%3DmovieFrame%26bannerImage%3Dhttp://images.amazon.com/images/G/01/music/video/images/sony-footer.jpg%26autoplay%3D0%26stButton%3D0%26playerTitle%3DPlease, Please Me&playerTarget=movieFrame&playerFeatures=&playerTitle=Please, Please Me&advertStatus=0&autoPlay=0&trackNumber=0&movieID=5&xmlURL=http%3A%2F%2Fimages.amazon.com%2Fimages%2FG%2F01%2Fmusic%2Fvideo%2Fplayer%2Fplease_please_me.playlist.2.html&movieNumber=0&submitURL=http%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%0525477330" quality="high" bgcolor="#FFFFFF" width="442" height="254" name="main" align="middle" allowScriptAccess="sameDomain" type="application/x-shockwave-flash" pluginspage="http://web.archive.org/web/20060112113446/http://www.macromedia.com/go/getflashplayer" /></object></div>');
+document.write('<div id="banner" style="position:relative; left: 0px; margin: 0em; padding: 0em; z-index: 0;"><img src="http://web.archive.org/web/20060112113446/http://images.amazon.com/images/G/01/music/video/images/sony-footer.jpg"></div>');
+document.write('<div id="feature" style="position:absolute; font-family: verdana; font-size: 11px ;display: block; top: 273px; left: 10px; margin: 0em; padding: 0em; z-index: 99; width: 400;"></div>');
+}
+else {
+document.write('<br/> To view this special content download the <a href="http://web.archive.org/web/20060112113446/http://www.macromedia.com/go/getflashplayer">Flash Player</a> (version 7).');
+}
+//-->
+</script><br> To view this special content download the <a href="http://web.archive.org/web/20060112113446/http://www.macromedia.com/go/getflashplayer">Flash Player</a> (version 7).
+<noscript>
+<div id="movie" style="position:relative; top: 0px; left: 0px; margin: 0em; padding: 0em; width: 442; height: 254; padding: 0em;"><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://web.archive.org/web/20060112113446oe_/http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,0,0" width="442" height="254" id="main" align="middle"><param name="allowScriptAccess" value="sameDomain"/><param name="movie" value="http://images.amazon.com/media/i3d/01/specialdeliveriesomicron.swf?playerURL=%2Fgp%2Ffilm-festival%2Fgeneric%2Fplayer.html%3Ffoo%2D1%26xmlURL%3Dhttp%3A%2F%2Fimages.amazon.com%2Fimages%2FG%2F01%2Fmusic%2Fvideo%2Fplayer%2Fplease_please_me.playlist.2.html%26playlistTitle%3D%26playerTarget%3DmovieFrame%26bannerImage%3Dhttp://images.amazon.com/images/G/01/music/video/images/sony-footer.jpg%26autoplay%3D0%26stButton%3D0%26playerTitle%3DPlease, Please Me&amp;playerTarget=movieFrame&amp;playerFeatures=&amp;playerTitle=Please, Please Me&amp;advertStatus=0&amp;autoPlay=0&amp;trackNumber=0&amp;movieID=5&amp;xmlURL=http%3A%2F%2Fimages.amazon.com%2Fimages%2FG%2F01%2Fmusic%2Fvideo%2Fplayer%2Fplease_please_me.playlist.2.html&amp;movieNumber=0&amp;submitURL=http%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%0525477330"/><param name="quality" value="high"/><param name="bgcolor" value="#FFFFFF"/><embed src="http://web.archive.org/web/20060112113446oe_/http://images.amazon.com/media/i3d/01/specialdeliveriesomicron.swf?playerURL=%2Fgp%2Ffilm-festival%2Fgeneric%2Fplayer.html%3Ffoo%2D1%26xmlURL%3Dhttp%3A%2F%2Fimages.amazon.com%2Fimages%2FG%2F01%2Fmusic%2Fvideo%2Fplayer%2Fplease_please_me.playlist.2.html%26playlistTitle%3D%26playerTarget%3DmovieFrame%26bannerImage%3Dhttp://images.amazon.com/images/G/01/music/video/images/sony-footer.jpg%26autoplay%3D0%26stButton%3D0%26playerTitle%3DPlease, Please Me&amp;playerTarget=movieFrame&amp;playerFeatures=&amp;playerTitle=Please, Please Me&amp;advertStatus=0&amp;autoPlay=0&amp;trackNumber=0&amp;movieID=5&amp;xmlURL=http%3A%2F%2Fimages.amazon.com%2Fimages%2FG%2F01%2Fmusic%2Fvideo%2Fplayer%2Fplease_please_me.playlist.2.html&amp;movieNumber=0&amp;submitURL=http%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%0525477330" quality="high" bgcolor="#FFFFFF" width="442" height="254" name="main" align="middle" allowscriptaccess="sameDomain" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer"/></object></div> <div id="banner" style="position:relative; left: 0px; margin: 0em; padding: 0em; z-index: 0;"><img src="http://web.archive.org/web/20060112113446im_/http://images.amazon.com/images/G/01/music/video/images/sony-footer.jpg"></div>
+<div id="feature" style="position:absolute; font-family: verdana; font-size: 11px ;display: block; top: 273px; left: 10px; margin: 0em; padding: 0em; z-index: 99; width: 400;"></div> </noscript> </div>
+</div>
 <br clear="all"><br>
 <div class="small">
-<font color="#CC6600"><b class="sans">Shoe Clearance: Save 50% or More</b></font><br clear="all">
+</div>
+<div class="small">
+<b class="h1">The Page You Made</b>
+<br> <table width="100%" border="0" cellspacing="5" cellpadding="0">
+<tbody><tr valign="bottom">
+<td width="33%">
+<a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=ASIN%2F1590523636%2Fref%3Dpd%5Fcpt%5Fgw%5Fi%2F&amp;l=141075001&amp;c=141075001&amp;i=1586737538&amp;s=1"><img src="http://web.archive.org/web/20060112113446im_/http://images.amazon.com/images/P/1590523636.01.TZZZZZZZ.jpg" width="60" height="90" align="left" border="0"></a>
+</td>
+<td width="33%">
+<a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=ASIN%2F0895260131%2Fref%3Dpd%5Fcpt%5Fgw%5Fi%2F&amp;l=141075001&amp;c=141075001&amp;i=1586737538&amp;s=1"><img src="http://web.archive.org/web/20060112113446im_/http://images.amazon.com/images/P/0895260131.01.TZZZZZZZ.jpg" width="89" height="110" align="left" border="0"></a>
+</td>
+<td width="33%">
+<a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=ASIN%2F0060761288%2Fref%3Dpd%5Fcpt%5Fgw%5Fi%2F&amp;l=141075001&amp;c=141075001&amp;i=1586737538&amp;s=1"><img src="http://web.archive.org/web/20060112113446im_/http://images.amazon.com/images/P/0060761288.01.TZZZZZZZ.jpg" width="73" height="110" align="left" border="0"></a>
+</td>
+</tr>
+<tr valign="top">
+<td width="33%"><span class="small">
+<a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=ASIN%2F1590523636%2Fref%3Dpd%5Fcpt%5Fgw%5F1%2F&amp;l=141075001&amp;c=141075001&amp;i=1586737538&amp;s=1">True Freedom</a>
+by Oliver North, Brian Smith
+<br>
+<nobr>
+<script language="Javascript1.1" type="text/javascript">
+<!--
+function amz_js_WriteRatingsLink(){
+document.write("<span class=tiny>");
+document.write("(");
+if (bulbimg){
+document.write("<a href=javascript:amz_js_PopWin('" + whyWindowUrl + "','RecsWhyWindow','width=480,height=450,resizable=yes,scrollbars=yes,status=yes') onMouseOver=\"status='" + tooltip + "'; return true;\" onMouseOut=\"status=''; return true;\" title='" + tooltip+ "'><img vspace=2 hspace=2 align=absmiddle src='" + bulbimg + "' width=9 height=12 border=0 alt='" + tooltip + "'></a>");
+}
+document.write("<a href=javascript:amz_js_PopWin('" + whyWindowUrl + "','RecsWhyWindow','width=480,height=450,resizable=yes,scrollbars=yes,status=yes') onMouseOver=\"status='" + tooltip + "'; return true;\" onMouseOut=\"status=''; return true;\" title='" + tooltip+ "'>" + whyLinkText + "</a>)" + trailingParen); document.write("</span>");
+}
+var bulbimg = "";
+var tooltip = "Click to rate this item.";
+var whyWindowUrl = "/exec/obidos/tg/stores/recs/rate-this-asin/-/1590523636/qp/ref=pd_rate_lk_qp_507846/103-3640082-9615854";
+var whyLinkText = "Rate this item";
+var trailingParen = "";
+amz_js_WriteRatingsLink()
+//-->
+</script><span class="tiny">(<a href="javascript:amz_js_PopWin('/exec/obidos/tg/stores/recs/rate-this-asin/-/1590523636/qp/ref=pd_rate_lk_qp_507846/103-3640082-9615854','RecsWhyWindow','width=480,height=450,resizable=yes,scrollbars=yes,status=yes')" onmouseover="status='Click to rate this item.'; return true;" onmouseout="status=''; return true;" title="Click to rate this item.">Rate this item</a>)</span>
+</nobr>
+</span></td>
+<td width="33%"><span class="small">
+<a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=ASIN%2F0895260131%2Fref%3Dpd%5Fcpt%5Fgw%5F2%2F&amp;l=141075001&amp;c=141075001&amp;i=1586737538&amp;s=1">The Politically Incorrect Guide to Islam (And the Crusades)</a>
+by Robert Spencer
+<br>
+<nobr>
+<script language="Javascript1.1" type="text/javascript">
+<!--
+var bulbimg = "";
+var tooltip = "Click to rate this item.";
+var whyWindowUrl = "/exec/obidos/tg/stores/recs/rate-this-asin/-/0895260131/qp/ref=pd_rate_lk_qp_507846/103-3640082-9615854";
+var whyLinkText = "Rate this item";
+var trailingParen = "";
+amz_js_WriteRatingsLink()
+//-->
+</script><span class="tiny">(<a href="javascript:amz_js_PopWin('/exec/obidos/tg/stores/recs/rate-this-asin/-/0895260131/qp/ref=pd_rate_lk_qp_507846/103-3640082-9615854','RecsWhyWindow','width=480,height=450,resizable=yes,scrollbars=yes,status=yes')" onmouseover="status='Click to rate this item.'; return true;" onmouseout="status=''; return true;" title="Click to rate this item.">Rate this item</a>)</span>
+</nobr>
+</span></td>
+<td width="33%"><span class="small">
+<a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=ASIN%2F0060761288%2Fref%3Dpd%5Fcpt%5Fgw%5F3%2F&amp;l=141075001&amp;c=141075001&amp;i=1586737538&amp;s=1">100 People Who Are Screwing Up America (And Al Franken Is #37)</a>
+by Bernard Goldberg
+<br>
+<nobr>
+<script language="Javascript1.1" type="text/javascript">
+<!--
+var bulbimg = "";
+var tooltip = "Click to rate this item.";
+var whyWindowUrl = "/exec/obidos/tg/stores/recs/rate-this-asin/-/0060761288/qp/ref=pd_rate_lk_qp_507846/103-3640082-9615854";
+var whyLinkText = "Rate this item";
+var trailingParen = "";
+amz_js_WriteRatingsLink()
+//-->
+</script><span class="tiny">(<a href="javascript:amz_js_PopWin('/exec/obidos/tg/stores/recs/rate-this-asin/-/0060761288/qp/ref=pd_rate_lk_qp_507846/103-3640082-9615854','RecsWhyWindow','width=480,height=450,resizable=yes,scrollbars=yes,status=yes')" onmouseover="status='Click to rate this item.'; return true;" onmouseout="status=''; return true;" title="Click to rate this item.">Rate this item</a>)</span>
+</nobr>
+</span></td>
+</tr>
+</tbody></table>
+<img src="http://web.archive.org/web/20060112113446im_/http://g-images.amazon.com/images/G/01/x-locale/common/orange-arrow.gif" width="10" height="9" border="0">
+<a class="breadcrumb" href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=tg%2Fnew%2Dfor%2Dyou%2Fpym%2Fhome%2F%2D%2F1%2Fref%3Dpd%5Fpyml%5Fgw%2F&amp;l=141075001&amp;c=141075001&amp;i=1586737538">See more in the Page You Made</a><br>
+<br clear="all"><br>
+</div>
+<div class="small">
+</div>
+<div class="small">
+</div>
+<div class="small">
+<font color="#CC6600"><b class="sans">Featured Categories in Books</b></font><br clear="all">
 <table border="0" cellpadding="8" cellspacing="0" width="100%">
 <tbody><tr>
 <td width="33%" valign="bottom" align="left" class="small">
-<a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/exec/obidos/ASIN/B000ARTTPK"><img src="http://web.archive.org/web/20060111190728im_/http://g-images.amazon.com/images/G/01/apparel/promos/110/B000ARTTPK-110.jpg " width="96" height="110" align="left" border="0"></a>
+<a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=http%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2F1401300642%2Fref%3Dbk%5Fsp%5F1b&amp;l=141354701&amp;c=141354701&amp;i=1586737538&amp;hmac=CC682CD2F1DDA8262ABF6D42FC2918AA9094E406"> <img src="http://web.archive.org/web/20060112113446im_/http://images.amazon.com/images/P/1401300642.01.32TRZZZZ.jpg" width="79" height="121" align="left" valign="top" hspace="5" vspace="3" border="0">
+</a>
 </td>
 <td width="33%" valign="bottom" align="left" class="small">
-<a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/exec/obidos/ASIN/B000AZ51MC"><img src="http://web.archive.org/web/20060111190728im_/http://g-images.amazon.com/images/G/01/apparel/promos/110/B000AZ51MC-110.jpg" width="96" height="110" align="left" border="0"></a>
+<a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=http%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2F0064471195%2Fref%3Dbk%5Fsp%5F2b&amp;l=141354701&amp;c=141354701&amp;i=1586737538&amp;hmac=822D2B920426ACA5468A621C6269E02F969D79A0"> <img src="http://web.archive.org/web/20060112113446im_/http://images.amazon.com/images/P/0064471195.01.__PE34_PIsm.arrow,TopLeft,-2,-19_SCTZZZZZZZ_.jpg" width="102" height="133" align="left" valign="top" hspace="5" vspace="3" border="0">
+</a>
 </td>
 <td width="33%" valign="bottom" align="left" class="small">
-<a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/exec/obidos/ASIN/B0002MEXL8"><img src="http://web.archive.org/web/20060111190728im_/http://g-images.amazon.com/images/G/01/apparel/promos/110/B0002MEXL8-110.jpg" width="107" height="110" align="left" border="0"></a>
+<a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=http%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2F1400042127%2Fref%3Dbk%5Fsp%5F3b&amp;l=141354701&amp;c=141354701&amp;i=1586737538&amp;hmac=2C32B98029640874B6CF4A4E08198F648844A919"> <img src="http://web.archive.org/web/20060112113446im_/http://images.amazon.com/images/P/1400042127.01.32TRZZZZ.jpg" width="81" height="121" align="left" valign="top" hspace="5" vspace="3" border="0">
+</a>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<b class="small"><a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/gp/search.html?node=1044764&amp;pct-off=50-">Women's Shoes at 50% Off</a></b><br>
+<b class="small"><a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=tg%2Fbrowse%2F%2D%2F15959201%2Fref%3Dbk%5Fsp%5F1a%2Fref%3Damb%5Fcenter%2D3%5F141354701%5F5%2F&amp;l=141354701&amp;c=141354701&amp;i=1586737538&amp;s=1">Best
+of 2005 Store</a></b><br>
+<span class="tiny">• <a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=tg%2Ffeature%2F%2D%2F593615%2Fref%3Dbk%5Fsp%5F1c%2Fref%3Damb%5Fcenter%2D3%5F141354701%5F1%2F&amp;l=141354701&amp;c=141354701&amp;i=1586737538&amp;s=1">Editors' Picks: The Top 50</a>
+<br>• <a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=tg%2Ffeature%2F%2D%2F593614%2Fref%3Dbk%5Fsp%5F1d%2Fref%3Damb%5Fcenter%2D3%5F141354701%5F2%2F&amp;l=141354701&amp;c=141354701&amp;i=1586737538&amp;s=1">Customer Faves: The Top 50</a>
+<br>• <a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=tg%2Ffeature%2F%2D%2F593558%2Fref%3Dbk%5Fsp%5F1e%2Fref%3Damb%5Fcenter%2D3%5F141354701%5F3%2F&amp;l=141354701&amp;c=141354701&amp;i=1586737538&amp;s=1">Best
+Memoirs</a> <br>• <a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=tg%2Ffeature%2F%2D%2F593138%2Fref%3Dbk%5Fsp%5F1f%2Fref%3Damb%5Fcenter%2D3%5F141354701%5F4%2F&amp;l=141354701&amp;c=141354701&amp;i=1586737538&amp;s=1">Best
+Fiction</a> <br></span>
+</td>
+<td valign="top">
+<b class="small"><a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=tg%2Fbrowse%2F%2D%2F15345201%2Fref%3Dbk%5Fsp%5F2a%2Fref%3Damb%5Fcenter%2D3%5F141354701%5F6%2F&amp;l=141354701&amp;c=141354701&amp;i=1586737538&amp;s=1">Visit Our Narnia Store</a></b><br>
+<span class="tiny">• <a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=http%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2F0064471195%2Fref%3Dbk%5Fsp%5F2c&amp;l=141354701&amp;c=141354701&amp;i=1586737538&amp;hmac=14034E3046D7F34824923192ACAC7F059811B5AE">Paperback
+Boxed Set</a><br>• <a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=http%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2F0060244887%2Fref%3Dbk%5Fsp%5F2d&amp;l=141354701&amp;c=141354701&amp;i=1586737538&amp;hmac=BC6090D2F0DF201ED7DD51478A64888287E207C5">Hardcover
+Boxed Set</a> <br>• <a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=http%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2F0060598247%2Fref%3Dbk%5Fsp%5F2e&amp;l=141354701&amp;c=141354701&amp;i=1586737538&amp;hmac=7271107A99EF71B1DD7A8D2E27DB9BDF39F51155"><i>The
+Chronicles of Narnia</i></a> <br>• <a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=http%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2F0060791276%2Fref%3Dbk%5Fsp%5F2f&amp;l=141354701&amp;c=141354701&amp;i=1586737538&amp;hmac=EFC062AF9DDAAAB6D73B199479859FCAED8E72F9"><i>Companion
+to Narnia</i></a> <br></span>
+</td>
+<td valign="top">
+<b class="small"><a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=tg%2Fbrowse%2F%2D%2F16279051%2Fref%3Dbk%5Fsp%5F3a%2Fref%3Damb%5Fcenter%2D3%5F141354701%5F7%2F&amp;l=141354701&amp;c=141354701&amp;i=1586737538&amp;s=1">New
+Year, New You 2006</a></b><br>
+<span class="tiny">• <a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=tg%2Ffeature%2F%2D%2F597577%2Fref%3Dbk%5Fsp%5F3c&amp;l=141354701&amp;c=141354701&amp;i=1586737538">Lose
+Weight</a><br>• <a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=tg%2Ffeature%2F%2D%2F597573%2Fref%3Dbk%5Fsp%5F3d&amp;l=141354701&amp;c=141354701&amp;i=1586737538">Healthy
+Living</a><br>• <a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=tg%2Ffeature%2F%2D%2F597581%2Fref%3Dbk%5Fsp%5F3e&amp;l=141354701&amp;c=141354701&amp;i=1586737538">Self-Help</a>
+<br>• <a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=tg%2Ffeature%2F%2D%2F597569%2Fref%3Dbk%5Fsp%5F3f&amp;l=141354701&amp;c=141354701&amp;i=1586737538">Beauty
+Boot Camp</a> <br></span>
+</td>
+</tr> </tbody></table>
+<br>
+</div>
+<div class="small">
+</div>
+<div class="small">
+</div>
+<div class="small">
+<font color="#CC6600"><b class="sans">Warm Up for Winter</b></font><br clear="all">
+<table border="0" cellpadding="8" cellspacing="0" width="100%">
+<tbody><tr>
+<td width="33%" valign="bottom" align="left" class="small">
+<a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=ASIN%2FB0000DYIVE%2Fref%3Damb%5Fcenter%2D4%5F118168201%5F5%2F&amp;l=118168201&amp;c=118168201&amp;i=1586737538&amp;s=1"><img src="http://web.archive.org/web/20060112113446im_/http://g-images.amazon.com/images/G/01/apparel/promos/phantom-jacket-90.jpg" width="90" height="90" align="left" border="0"></a>
+</td>
+<td width="33%" valign="bottom" align="left" class="small">
+<a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=ASIN%2FB000BO66NA%2Fref%3Damb%5Fcenter%2D4%5F118168201%5F10%2F&amp;l=118168201&amp;c=118168201&amp;i=1586737538&amp;s=1"><img src="http://web.archive.org/web/20060112113446im_/http://g-images.amazon.com/images/G/01/apparel/promos/sweater.jpg" width="74" height="90" align="left" border="0"></a>
+</td>
+<td width="33%" valign="bottom" align="left" class="small">
+<a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=ASIN%2FB00066QNZY%2Fref%3Damb%5Fcenter%2D4%5F118168201%5F16%2F&amp;l=118168201&amp;c=118168201&amp;i=1586737538&amp;s=1"><img src="http://web.archive.org/web/20060112113446im_/http://g-images.amazon.com/images/G/01/apparel/promos/gloves.jpg" width="90" height="90" align="left" border="0"></a>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<b class="small"><a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=http%3A%2F%2Fwww.amazon.com%2Fgp%2Fsearch.html%3Fplatform%3Dgurupa%26url%3Dnode%3D1036682%26keywords%3DOuterwear&amp;l=118168201&amp;c=118168201&amp;i=1586737538&amp;hmac=AE93C8D6D07956908252020E009D39688DB5D345">Outerwear</a></b><br>
 <span class="tiny">•
-<a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/gp/search.html?node=1044764&amp;pct-off=50-&amp;brand=adidas">adidas</a>
+<a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=tg%2Fbrowse%2F%2D%2F1044448%2Fref%3Damb%5Fcenter%2D4%5F118168201%5F1%2F&amp;l=118168201&amp;c=118168201&amp;i=1586737538&amp;s=1">Men</a>
 <br>•
-<a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/gp/search.html?node=1044764&amp;pct-off=50-&amp;brand=Clarks">Clarks</a>
+<a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=tg%2Fbrowse%2F%2D%2F1044464%2Fref%3Damb%5Fcenter%2D4%5F118168201%5F2%2F&amp;l=118168201&amp;c=118168201&amp;i=1586737538&amp;s=1">Women</a>
 <br>•
-<a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/gp/search.html?node=1044764&amp;pct-off=50-&amp;brand=Naturalizer">Naturalizer</a>
+<a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=tg%2Fbrowse%2F%2D%2F1044498%2Fref%3Damb%5Fcenter%2D4%5F118168201%5F3%2F&amp;l=118168201&amp;c=118168201&amp;i=1586737538&amp;s=1">Girls</a>
 <br>•
-<a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/gp/search.html?node=1044764&amp;pct-off=50-&amp;brand=Steve Madden">Steve Madden</a>
+<a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=tg%2Fbrowse%2F%2D%2F1044480%2Fref%3Damb%5Fcenter%2D4%5F118168201%5F4%2F&amp;l=118168201&amp;c=118168201&amp;i=1586737538&amp;s=1">Boys</a>
 <br>•
-<a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/gp/search.html?node=1044764&amp;pct-off=50-">See All Women's Shoes at 50% Off</a>
+<a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=http%3A%2F%2Fwww.amazon.com%2Fgp%2Fsearch.html%3Fplatform%3Dgurupa%26url%3Dnode%3D1044500%26keywords%3DOuterwear&amp;l=118168201&amp;c=118168201&amp;i=1586737538&amp;hmac=C6C817EDC977B366B82DF2F67683CA4EBD8F03B8">Toddlers</a>
 <br></span>
 </td>
 <td valign="top">
-<b class="small"><a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/gp/search.html?node=1045744&amp;pct-off=50-">Men's Shoes at 50% Off</a></b><br>
+<b class="small"><a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=http%3A%2F%2Fwww.amazon.com%2Fgp%2Fsearch.html%3Fplatform%3Dgurupa%26url%3Dnode%3D1036682%26keywords%3DSweaters&amp;l=118168201&amp;c=118168201&amp;i=1586737538&amp;hmac=18C2D148B54E429608A526DA28B17C681ED12A46">Sweaters</a></b><br>
 <span class="tiny">•
-<a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/gp/search.html?node=1045744&amp;pct-off=50-&amp;brand=Kenneth Cole Reaction">Kenneth Cole Reaction</a>
+<a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=tg%2Fbrowse%2F%2D%2F1044442%2Fref%3Damb%5Fcenter%2D4%5F118168201%5F6%2F&amp;l=118168201&amp;c=118168201&amp;i=1586737538&amp;s=1">Men</a>
 <br>•
-<a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/gp/search.html?node=1045744&amp;pct-off=50-&amp;brand=New Balance">New Balance</a>
+<a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=tg%2Fbrowse%2F%2D%2F1044456%2Fref%3Damb%5Fcenter%2D4%5F118168201%5F7%2F&amp;l=118168201&amp;c=118168201&amp;i=1586737538&amp;s=1">Women</a>
 <br>•
-<a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/gp/search.html?node=1045744&amp;pct-off=50-&amp;brand=Skechers">Skechers</a>
+<a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=tg%2Fbrowse%2F%2D%2F3455741%2Fref%3Damb%5Fcenter%2D4%5F118168201%5F8%2F&amp;l=118168201&amp;c=118168201&amp;i=1586737538&amp;s=1">Girls</a>
 <br>•
-<a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/gp/search.html?node=1045744&amp;pct-off=50-&amp;brand=Timberland">Timberland</a>
+<a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=tg%2Fbrowse%2F%2D%2F3455451%2Fref%3Damb%5Fcenter%2D4%5F118168201%5F9%2F&amp;l=118168201&amp;c=118168201&amp;i=1586737538&amp;s=1">Boys</a>
 <br>•
-<a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/gp/search.html?node=1045744&amp;pct-off=50-">See All Men's Shoes at 50% Off</a>
+<a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=http%3A%2F%2Fwww.amazon.com%2Fgp%2Fsearch.html%3Fplatform%3Dgurupa%26url%3Dnode%3D1044500%26keywords%3DSweaters&amp;l=118168201&amp;c=118168201&amp;i=1586737538&amp;hmac=15AFDB3EE146A87BF818207396BD270E7C382921">Toddlers</a>
 <br></span>
 </td>
 <td valign="top">
-<b class="small"><a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/gp/search.html?node=1044476&amp;pct-off=50-">Children's Shoes at 50% Off</a></b><br>
+<b class="small"><a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=tg%2Fbrowse%2F%2D%2F1036700%2Fref%3Damb%5Fcenter%2D4%5F118168201%5F15%2F&amp;l=118168201&amp;c=118168201&amp;i=1586737538&amp;s=1">Accessories</a></b><br>
 <span class="tiny">•
-<a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/gp/search.html?node=1044476&amp;pct-off=50-&amp;brand=The Children's Place">The Children's Place</a>
+<a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=tg%2Fbrowse%2F%2D%2F1046284%2Fref%3Damb%5Fcenter%2D4%5F118168201%5F11%2F&amp;l=118168201&amp;c=118168201&amp;i=1586737538&amp;s=1">Women's Gloves</a>
 <br>•
-<a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/gp/search.html/?node=1036682&amp;pct-off=50-&amp;brand=Converse">Converse</a>
+<a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=tg%2Fbrowse%2F%2D%2F1046520%2Fref%3Damb%5Fcenter%2D4%5F118168201%5F12%2F&amp;l=118168201&amp;c=118168201&amp;i=1586737538&amp;s=1">Men's Gloves</a>
 <br>•
-<a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/gp/search.html?node=1044476&amp;pct-off=50-&amp;brand=Skechers">Skechers</a>
+<a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=tg%2Fbrowse%2F%2D%2F1046286%2Fref%3Damb%5Fcenter%2D4%5F118168201%5F13%2F&amp;l=118168201&amp;c=118168201&amp;i=1586737538&amp;s=1">Women's Hats</a>
 <br>•
-<a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/gp/search.html?node=1044476&amp;pct-off=50-&amp;brand=adidas">adidas</a>
+<a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=tg%2Fbrowse%2F%2D%2F1046518%2Fref%3Damb%5Fcenter%2D4%5F118168201%5F14%2F&amp;l=118168201&amp;c=118168201&amp;i=1586737538&amp;s=1">Men's Hats</a>
 <br>•
-<a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/gp/search.html?node=1044476&amp;pct-off=50-">See All Kids' Shoes at 50% Off</a>
+<a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=http%3A%2F%2Fwww.amazon.com%2Fgp%2Fsearch.html%3Fplatform%3Dgurupa%26url%3Dnode%3D1036700%26keywords%3DScarf&amp;l=118168201&amp;c=118168201&amp;i=1586737538&amp;hmac=582E010286A820D583A3D67D080D4A2BA07B5E59">Scarves</a>
 <br></span>
 </td>
 </tr> </tbody></table>
 <br>
 </div>
 <div class="small">
-<font color="#CC6600"><b class="sans">Editors' Picks: Products We Love</b></font><br clear="all">
-<table border="0" cellpadding="8" cellspacing="0" width="100%">
-<tbody><tr>
-<td width="33%" valign="bottom" align="left" class="small">
-<a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/exec/obidos/tg/detail/-/0764597787"> <img src="http://web.archive.org/web/20060111190728im_/http://images.amazon.com/images/P/0764597787.01.__PE32_PIsm.arrow,TopLeft,-2,-19_SCTZZZZZZZ_.jpg" width="104" height="133" align="left" valign="top" hspace="5" vspace="3" border="0">
-</a>
-</td>
-<td width="33%" valign="bottom" align="left" class="small">
-<a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/exec/obidos/tg/detail/-/B000BBYSA6"> <img src="http://web.archive.org/web/20060111190728im_/http://images.amazon.com/images/P/B000BBYSA6.01.TZZZZZZZ.jpg" width="110" height="110" align="left" valign="top" hspace="5" vspace="3" border="0">
-</a>
-</td>
-<td width="33%" valign="bottom" align="left" class="small">
-<a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/exec/obidos/tg/detail/-/B00003CWPL"> <img src="http://web.archive.org/web/20060111190728im_/http://images.amazon.com/images/P/B00003CWPL.01.37TRZZZZ.jpg" width="85" height="121" align="left" valign="top" hspace="5" vspace="3" border="0">
-</a>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<b class="small"><a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/exec/obidos/tg/browse/-/13759931">Editors' Picks: Books</a></b><br>
-<span class="tiny">•
-<a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/exec/obidos/tg/guides/guide-display/-/2PLTRKYM9JDPZ">See Our Books Editor's Picks</a> <br></span>
-</td>
-<td valign="top">
-<b class="small"><a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/exec/obidos/tg/browse/-/13759931">Editors' Picks: Music</a></b><br>
-<span class="tiny">•
-<a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/exec/obidos/tg/guides/guide-display/-/1XOLRSAAT69QD">See
-Our Music Editor's Picks</a> <br></span>
-</td>
-<td valign="top">
-<b class="small"><a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/exec/obidos/tg/browse/-/13759931">Editors' Picks: DVD</a></b><br>
-<span class="tiny">•
-<a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/exec/obidos/tg/guides/guide-display/-/365ZVTBDA9WVI">See Our DVD Editor's Picks</a> <br></span>
-</td>
-</tr> </tbody></table>
-<br>
+<b class="h1">Save 30% on <i>Lois &amp; Clark</i> or <i>Adventures of Superman</i></b><br clear="left">
+<a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=ASIN%2FB000BT96EG%2Fref%3Damb%5Fcenter%2D5%5F139519901%5F1%2F&amp;l=139519901&amp;c=139519901&amp;i=1586737538&amp;s=1">
+<img src="http://web.archive.org/web/20060112113446im_/http://images.amazon.com/images/P/B000BT96EG.01.30TRZZZZ.jpg" width="107" height="121" align="left" valign="top" hspace="5" vspace="3" border="0">
+</a><a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=ASIN%2FB000BT96FA%2Fref%3Damb%5Fcenter%2D5%5F139519901%5F2%2F&amp;l=139519901&amp;c=139519901&amp;i=1586737538&amp;s=1">
+<img src="http://web.archive.org/web/20060112113446im_/http://images.amazon.com/images/P/B000BT96FA.01.30TRZZZZ.jpg" width="110" height="121" align="left" valign="top" hspace="5" vspace="3" border="0">
+</a>Save 30% when you pre-order either <a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=ASIN%2FB000BT96EG%2Fref%3Damb%5Fcenter%2D5%5F139519901%5F3%2F&amp;l=139519901&amp;c=139519901&amp;i=1586737538&amp;s=1"><i>Lois &amp; Clark: The Complete Second Season</i></a> or <a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=ASIN%2FB000BT96FA%2Fref%3Damb%5Fcenter%2D5%5F139519901%5F4%2F&amp;l=139519901&amp;c=139519901&amp;i=1586737538&amp;s=1"><i>Adventures of Superman: The Complete Second Season</i></a>. Or, receive an additional $5 mail-rebate when you pre-order both. <a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=http%3A%2F%2Fimages.amazon.com%2Fmedia%2Fi3d%2F01%2Fsm%5Flc%5Fpdf%5Fflyer1.pdf&amp;l=139519901&amp;c=139519901&amp;i=1586737538&amp;hmac=9A4701F3D30B094DF71977ED726B508063637649">See details</a>.
 </div>
+<br clear="all"><br>
 <div class="small">
+<font color="#CC6600"><b class="sans">Organize and Accessorize</b></font><br clear="all">
 <table border="0" cellpadding="8" cellspacing="0" width="100%">
 <tbody><tr>
 <td width="33%" valign="bottom" align="left" class="small">
-<a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/exec/obidos/ASIN/B0009XQTYE"><img src="http://web.archive.org/web/20060111190728im_/http://g-images.amazon.com/images/G/01/apparel/promos/handbags-brand.jpg" width="70" height="100" align="left" border="0"></a>
+<a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=ASIN%2FB0006I9QMO%2Fref%3Damb%5Fcenter%2D6%5F140915101%5F1%2F&amp;l=140915101&amp;c=140915101&amp;i=1586737538&amp;s=1"><img src="http://web.archive.org/web/20060112113446im_/http://g-images.amazon.com/images/G/01/apparel/promos/ipod-90.jpg" width="90" height="90" align="left" border="0"></a>
 </td>
 <td width="33%" valign="bottom" align="left" class="small">
-<a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/exec/obidos/ASIN/B0007O96WM"><img src="http://web.archive.org/web/20060111190728im_/http://g-images.amazon.com/images/G/01/apparel/promos/handbags-style.jpg" width="100" height="100" align="left" border="0"></a>
+<a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=ASIN%2FB000AE3QLQ%2Fref%3Damb%5Fcenter%2D6%5F140915101%5F2%2F&amp;l=140915101&amp;c=140915101&amp;i=1586737538&amp;s=1"><img src="http://web.archive.org/web/20060112113446im_/http://g-images.amazon.com/images/G/01/apparel/promos/cell-phone-holder-90.jpg" width="90" height="90" align="left" border="0"></a>
 </td>
 <td width="33%" valign="bottom" align="left" class="small">
-<a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/exec/obidos/ASIN/B000ANGX8K"><img src="http://web.archive.org/web/20060111190728im_/http://g-images.amazon.com/images/G/01/apparel/promos/handbags-price.jpg" width="83" height="100" align="left" border="0"></a>
+<a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=ASIN%2FB000BPSFVU%2Fref%3Damb%5Fcenter%2D6%5F140915101%5F4%2F&amp;l=140915101&amp;c=140915101&amp;i=1586737538&amp;s=1"><img src="http://web.archive.org/web/20060112113446im_/http://g-images.amazon.com/images/G/01/apparel/promos/pda-case-90.jpg" width="90" height="90" align="left" border="0"></a>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<b class="small"><a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/gp/search/brand-index.html?_encoding=UTF8&amp;field-launch-date=-1y&amp;index=apparel&amp;field-subjectbin=1046380&amp;field-availability=-1&amp;rootNode=1036682&amp;rh=a:1046380">Handbag Brands</a></b><br>
-<span class="tiny">•
-<a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/gp/search.html?node=1046380&amp;brand=Fendi">Fendi</a>
-<br>•
-<a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/gp/search.html?node=1046380&amp;brand=kate spade">Kate Spade</a>
-<br>•
-<a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/gp/search.html?node=1046380&amp;brand=Kenneth Cole New York">Kenneth Cole</a>
-<br>•
-<a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/gp/search.html?node=1046380&amp;brand=Prada">Prada</a>
-<br>•
-<a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/gp/search/brand-index.html?_encoding=UTF8&amp;field-launch-date=-1y&amp;index=apparel&amp;field-subjectbin=1046380&amp;field-availability=-1&amp;rootNode=1036682&amp;rh=a:1046380">All Handbag Brands</a>
-<br></span>
-</td>
-<td valign="top">
-<b class="small"><a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/exec/obidos/tg/browse/-/1046380">Handbag Styles</a></b><br>
-<span class="tiny">•
-<a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/exec/obidos/tg/browse/-/1046390">Hobos</a>
-<br>•
-<a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/exec/obidos/tg/browse/-/1046384">Leather</a>
-<br>•
-<a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/exec/obidos/tg/browse/-/1046388">Shoulder-Strap</a>
-<br>•
-<a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/exec/obidos/tg/browse/-/1046392">Totes</a>
-<br>•
-<a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/exec/obidos/tg/browse/-/1046380">All Handbag Styles</a>
-<br></span>
-</td>
-<td valign="top">
-<b class="small"><a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/exec/obidos/tg/browse/-/1046380">Handbags by Price</a></b><br>
-<span class="tiny">•
-<a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/gp/search.html?node=1046380&amp;price=$0-$24">$0 to $24</a>
-<br>•
-<a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/gp/search.html?node=1046380&amp;price=$25-$49">$25 to $49</a>
-<br>•
-<a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/gp/search.html?node=1046380&amp;price=$50-$99">$50 to $99</a>
-<br>•
-<a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/gp/search.html?node=1046380&amp;price=$100-$199">$100 to $199</a>
-<br>•
-<a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/exec/obidos/tg/browse/-/1046380">All Handbags</a>
-<br></span>
-</td>
-</tr> </tbody></table>
-<br>
+<div style="margin-top: 6px; margin-left: 1px;" class="tiny">
+<img src="http://web.archive.org/web/20060112113446im_/http://g-images.amazon.com/images/G/01/icons/orange-arrow.gif" width="5" height="9">
+<a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=http%3A%2F%2Fwww.amazon.com%2Fgp%2Fsearch.html%3Fnode%3D1036700%26keywords%3DiPod%2BCase&amp;l=140915101&amp;c=140915101&amp;i=1586737538&amp;hmac=1C04B4F8E0BFA29F9A2B3EE1BB177FFE05F35D23">See All iPod Cases</a>
 </div>
-<div class="small">
-<font color="#CC6600"><b class="sans">Save 60% or More on Women's Clearance Apparel</b></font><br clear="all">
-<table border="0" cellpadding="8" cellspacing="0" width="100%">
-<tbody><tr>
-<td width="33%" valign="bottom" align="left" class="small">
-<a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/exec/obidos/ASIN/B000CC4D9A"><img src="http://web.archive.org/web/20060111190728im_/http://g-images.amazon.com/images/G/01/apparel/promos/striped-90.jpg" width="90" height="90" align="left" border="0"></a>
-</td>
-<td width="33%" valign="bottom" align="left" class="small">
-<a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/exec/obidos/ASIN/B0009U7UQI"><img src="http://web.archive.org/web/20060111190728im_/http://g-images.amazon.com/images/G/01/apparel/promos/lee-jeans-90.jpg" width="90" height="90" align="left" border="0"></a>
-</td>
-<td width="33%" valign="bottom" align="left" class="small">
-<a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/exec/obidos/ASIN/B000AB5ZNG"><img src="http://web.archive.org/web/20060111190728im_/http://g-images.amazon.com/images/G/01/apparel/promos/tsubo-90.jpg" width="90" height="90" align="left" border="0"></a>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<span class="tiny">•
-<a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/gp/search.html?node=1044454&amp;pct-off=60-">Shirts</a>
-<br>•
-<a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/gp/search.html?node=1044456&amp;pct-off=60-">Sweaters</a>
-<br>•
-<a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/gp/search.html?node=1044608&amp;pct-off=60-">Sweatshirts</a>
-<br>•
-<a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/gp/search.html?node=14166101&amp;pct-off=60-">All Tops 60% or More Off</a>
-<br></span>
 </td>
 <td valign="top">
-<span class="tiny">•
-<a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/gp/search.html?node=1048184&amp;pct-off=60-">Pants</a>
-<br>•
-<a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/gp/search.html?node=1048188&amp;pct-off=60-">Jeans</a>
-<br>•
-<a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/gp/search.html?node=1045022&amp;pct-off=60-">Skirts</a>
-<br>•
-<a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/gp/search.html?node=14168361&amp;pct-off=60-">All Bottoms 60% or More Off</a>
-<br></span>
-</td>
-<td valign="top">
-<span class="tiny">•
-<a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/gp/search.html?node=1044820&amp;pct-off=60-">Boots</a>
-<br>•
-<a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/gp/search.html?node=14290711&amp;pct-off=60-">Fashion Sneakers</a>
-<br>•
-<a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/gp/search.html?node=1044778&amp;pct-off=60-">Flats</a>
-<br>•
-<a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/gp/search.html?node=1044764&amp;pct-off=60-">All Shoes 60% or More Off</a>
-<br></span>
-</td>
-</tr> </tbody></table>
-<br>
+<div style="margin-top: 6px; margin-left: 1px;" class="tiny">
+<img src="http://web.archive.org/web/20060112113446im_/http://g-images.amazon.com/images/G/01/icons/orange-arrow.gif" width="5" height="9">
+<a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=tg%2Fbrowse%2F%2D%2F15743531%2Fref%3Damb%5Fcenter%2D6%5F140915101%5F3%2F&amp;l=140915101&amp;c=140915101&amp;i=1586737538&amp;s=1">See All Cell Phone Holders</a>
 </div>
-<div class="small">
-<font color="#CC6600"><b class="sans">Our Favorite 2006 Calendars</b></font><br clear="all">
-<table border="0" cellpadding="8" cellspacing="0" width="100%">
-<tbody><tr>
-<td width="33%" valign="bottom" align="left" class="small">
-<a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/exec/obidos/ASIN/0740755056"> <img src="http://web.archive.org/web/20060111190728im_/http://images.amazon.com/images/P/0740755056.01.25TRZZZZ.jpg" width="121" height="121" align="left" valign="top" hspace="5" vspace="3" border="0">
-</a>
-</td>
-<td width="33%" valign="bottom" align="left" class="small">
-<a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/exec/obidos/ASIN/0768870364"> <img src="http://web.archive.org/web/20060111190728im_/http://images.amazon.com/images/P/0768870364.01.25TRZZZZ.jpg" width="121" height="111" align="left" valign="top" hspace="5" vspace="3" border="0">
-</a>
-</td>
-<td width="33%" valign="bottom" align="left" class="small">
-<a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/exec/obidos/ASIN/076113719X"> <img src="http://web.archive.org/web/20060111190728im_/http://images.amazon.com/images/P/076113719X.01.25TRZZZZ.jpg" width="121" height="121" align="left" valign="top" hspace="5" vspace="3" border="0">
-</a>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<b class="small"><a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/exec/obidos/ASIN/0740755056"><i>Desperate Housewives</i></a></b><br>
 </td>
 <td valign="top">
-<b class="small"><a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/exec/obidos/ASIN/0768870364"><i>The Chronicles of Narnia</i></a></b><br>
-</td>
-<td valign="top">
-<b class="small"><a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/exec/obidos/ASIN/076113719X"><i>Mom's Family Calendar</i></a></b><br>
+<div style="margin-top: 6px; margin-left: 1px;" class="tiny">
+<img src="http://web.archive.org/web/20060112113446im_/http://g-images.amazon.com/images/G/01/icons/orange-arrow.gif" width="5" height="9">
+<a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=http%3A%2F%2Fwww.amazon.com%2Fgp%2Fsearch.html%3Fnode%3D1036700%26keywords%3DPDA%2BCase&amp;l=140915101&amp;c=140915101&amp;i=1586737538&amp;hmac=E4A5753DC61B11FAB0B4D1F197D4AB7D618C0B30">See All PDA Cases</a>
+</div>
 </td>
 </tr> <tr>
 <td width="33%" valign="bottom" align="left" class="small">
-<a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/exec/obidos/ASIN/0740755277"> <img src="http://web.archive.org/web/20060111190728im_/http://images.amazon.com/images/P/0740755277.01.25TRZZZZ.jpg" width="121" height="121" align="left" valign="top" hspace="5" vspace="3" border="0">
-</a>
+<a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=ASIN%2FB00013ZJVQ%2Fref%3Damb%5Fcenter%2D6%5F140915101%5F5%2F&amp;l=140915101&amp;c=140915101&amp;i=1586737538&amp;s=1"><img src="http://web.archive.org/web/20060112113446im_/http://g-images.amazon.com/images/G/01/apparel/promos/messenger-bag-90.jpg" width="90" height="90" align="left" border="0"></a>
 </td>
 <td width="33%" valign="bottom" align="left" class="small">
-<a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/exec/obidos/ASIN/0761137602"> <img src="http://web.archive.org/web/20060111190728im_/http://images.amazon.com/images/P/0761137602.01.25TRZZZZ.jpg" width="121" height="121" align="left" valign="top" hspace="5" vspace="3" border="0">
-</a>
+<a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=ASIN%2FB000B6JCQQ%2Fref%3Damb%5Fcenter%2D6%5F140915101%5F7%2F&amp;l=140915101&amp;c=140915101&amp;i=1586737538&amp;s=1"><img src="http://web.archive.org/web/20060112113446im_/http://g-images.amazon.com/images/G/01/apparel/promos/handbag-90.jpg" width="90" height="90" align="left" border="0"></a>
 </td>
 <td width="33%" valign="bottom" align="left" class="small">
-<a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/exec/obidos/ASIN/0811848523"> <img src="http://web.archive.org/web/20060111190728im_/http://images.amazon.com/images/P/0811848523.01.__PE25_PIsm.arrow,TopLeft,-2,-19_SCTZZZZZZZ_.jpg" width="133" height="129" align="left" valign="top" hspace="5" vspace="3" border="0">
-</a>
+<a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=ASIN%2FB0009PI6BQ%2Fref%3Damb%5Fcenter%2D6%5F140915101%5F9%2F&amp;l=140915101&amp;c=140915101&amp;i=1586737538&amp;s=1"><img src="http://web.archive.org/web/20060112113446im_/http://g-images.amazon.com/images/G/01/apparel/promos/sling-90.jpg" width="90" height="90" align="left" border="0"></a>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<b class="small"><a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/exec/obidos/ASIN/0740755277"><i>He's Just Not That into You</i></a></b><br>
+<div style="margin-top: 6px; margin-left: 1px;" class="tiny">
+<img src="http://web.archive.org/web/20060112113446im_/http://g-images.amazon.com/images/G/01/icons/orange-arrow.gif" width="5" height="9">
+<a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=tg%2Fbrowse%2F%2D%2F15743231%2Fref%3Damb%5Fcenter%2D6%5F140915101%5F6%2F&amp;l=140915101&amp;c=140915101&amp;i=1586737538&amp;s=1">See All Messenger Bags</a>
+</div>
 </td>
 <td valign="top">
-<b class="small"><a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/exec/obidos/ASIN/0761137602"><i>Nuns Having Fun</i></a></b><br>
+<div style="margin-top: 6px; margin-left: 1px;" class="tiny">
+<img src="http://web.archive.org/web/20060112113446im_/http://g-images.amazon.com/images/G/01/icons/orange-arrow.gif" width="5" height="9">
+<a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=tg%2Fbrowse%2F%2D%2F15743631%2Fref%3Damb%5Fcenter%2D6%5F140915101%5F8%2F&amp;l=140915101&amp;c=140915101&amp;i=1586737538&amp;s=1">See All Handbags</a>
+</div>
 </td>
 <td valign="top">
-<b class="small"><a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/exec/obidos/ASIN/0811848523"><i>Yoshitomo Nara</i></a></b><br>
+<div style="margin-top: 6px; margin-left: 1px;" class="tiny">
+<img src="http://web.archive.org/web/20060112113446im_/http://g-images.amazon.com/images/G/01/icons/orange-arrow.gif" width="5" height="9">
+<a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=tg%2Fbrowse%2F%2D%2F15743191%2Fref%3Damb%5Fcenter%2D6%5F140915101%5F10%2F&amp;l=140915101&amp;c=140915101&amp;i=1586737538&amp;s=1">See All Backpacks</a>
+</div>
 </td>
 </tr> </tbody></table>
 <br>
 </div>
 <div class="small">
-<font color="#CC6600"><b class="sans">Dollars and Cents: Personal Finance and Investing Books</b></font><br clear="all">
+</div>
+<div class="small">
+</div>
+<div class="small">
+<font color="#CC6600"><b class="sans">Great Deals for the Chef from $19.99</b></font><br clear="all">
 <table border="0" cellpadding="8" cellspacing="0" width="100%">
 <tbody><tr>
 <td width="33%" valign="bottom" align="left" class="small">
-<a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/exec/obidos/ASIN/0071466150"> <img src="http://web.archive.org/web/20060111190728im_/http://images.amazon.com/images/P/0071466150.01.34TRZZZZ.jpg" width="81" height="121" align="left" valign="top" hspace="5" vspace="3" border="0">
+<a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=ASIN%2FB00005KAY1%2Fref%3Damb%5Fcenter%2D7%5F140761101%5F3%2F&amp;l=140761101&amp;c=140761101&amp;i=1586737538&amp;s=1"> <img src="http://web.archive.org/web/20060112113446im_/http://images.amazon.com/images/P/B00005KAY1.01.73TRZZZZ.jpg" width="72" height="99" align="left" valign="top" hspace="5" vspace="3" border="0">
 </a>
 </td>
 <td width="33%" valign="bottom" align="left" class="small">
-<a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/exec/obidos/ASIN/0743270312"> <img src="http://web.archive.org/web/20060111190728im_/http://images.amazon.com/images/P/0743270312.01.34TRZZZZ.jpg" width="80" height="121" align="left" valign="top" hspace="5" vspace="3" border="0">
+<a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=ASIN%2FB000CMK2OK%2Fref%3Damb%5Fcenter%2D7%5F140761101%5F6%2F&amp;l=140761101&amp;c=140761101&amp;i=1586737538&amp;s=1"> <img src="http://web.archive.org/web/20060112113446im_/http://images.amazon.com/images/P/B000CMK2OK.01.52TRZZZZ.jpg" width="121" height="110" align="left" valign="top" hspace="5" vspace="3" border="0">
 </a>
 </td>
 <td width="33%" valign="bottom" align="left" class="small">
-<a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/exec/obidos/ASIN/0471733067"> <img src="http://web.archive.org/web/20060111190728im_/http://images.amazon.com/images/P/0471733067.01.32TRZZZZ.jpg" width="84" height="121" align="left" valign="top" hspace="5" vspace="3" border="0">
+<a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=ASIN%2FB000B888VY%2Fref%3Damb%5Fcenter%2D7%5F140761101%5F9%2F&amp;l=140761101&amp;c=140761101&amp;i=1586737538&amp;s=1"> <img src="http://web.archive.org/web/20060112113446im_/http://images.amazon.com/images/P/B000B888VY.01.50TRZZZZ.jpg" width="47" height="121" align="left" valign="top" hspace="5" vspace="3" border="0">
 </a>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<b class="small"><a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/exec/obidos/ASIN/0071466150"><i>The Millionaire Maker</i></a></b><br>
+<b class="small"><a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=ASIN%2FB00005KAY1%2Fref%3Damb%5Fcenter%2D7%5F140761101%5F2%2F&amp;l=140761101&amp;c=140761101&amp;i=1586737538&amp;s=1">Remanufactured Cuisinart Automatic Grind &amp; Brew</a></b><br>
+<span class="tiny">•
+<a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=ASIN%2FB00005KAY1%2Fref%3Damb%5Fcenter%2D7%5F140761101%5F1%2F&amp;l=140761101&amp;c=140761101&amp;i=1586737538&amp;s=1">With a built-in grinder, this coffeemaker lets you wake up to 10 cups of perfect, hot java, $29.99</a><br></span>
 </td>
 <td valign="top">
-<b class="small"><a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/exec/obidos/ASIN/0743270312"><i>The Number</i></a></b><br>
+<b class="small"><a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=ASIN%2FB000CMK2OK%2Fref%3Damb%5Fcenter%2D7%5F140761101%5F5%2F&amp;l=140761101&amp;c=140761101&amp;i=1586737538&amp;s=1">KitchenAid Stand Mixer</a></b><br>
+<span class="tiny">•
+<a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=ASIN%2FB000CMK2OK%2Fref%3Damb%5Fcenter%2D7%5F140761101%5F4%2F&amp;l=140761101&amp;c=140761101&amp;i=1586737538&amp;s=1">Featuring 400-watt power, 10 speed controls, durable metal construction and a 90-day warranty, $149.99</a><br></span>
 </td>
 <td valign="top">
-<b class="small"><a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/exec/obidos/ASIN/0471733067"><i>The Little Book That Beats the Market</i></a></b><br>
+<b class="small"><a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=ASIN%2FB000B888VY%2Fref%3Damb%5Fcenter%2D7%5F140761101%5F8%2F&amp;l=140761101&amp;c=140761101&amp;i=1586737538&amp;s=1">Tensor Outdoor Barbecue Lamp</a></b><br>
+<span class="tiny">•
+<a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=ASIN%2FB000B888VY%2Fref%3Damb%5Fcenter%2D7%5F140761101%5F7%2F&amp;l=140761101&amp;c=140761101&amp;i=1586737538&amp;s=1">With a durable anti-corrosion finish, this lamp lets you extend barbecue parties into the evening, $19.99</a><br></span>
 </td>
 </tr> <tr>
 <td width="33%" valign="bottom" align="left" class="small">
-<a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/exec/obidos/ASIN/0471738735"> <img src="http://web.archive.org/web/20060111190728im_/http://images.amazon.com/images/P/0471738735.01.__PE34_PIsm.arrow,TopLeft,-2,-19_SCTZZZZZZZ_.jpg" width="88" height="133" align="left" valign="top" hspace="5" vspace="3" border="0">
+<a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=ASIN%2FB000660VCA%2Fref%3Damb%5Fcenter%2D7%5F140761101%5F12%2F&amp;l=140761101&amp;c=140761101&amp;i=1586737538&amp;s=1"> <img src="http://web.archive.org/web/20060112113446im_/http://images.amazon.com/images/P/B000660VCA.01.50TRZZZZ.jpg" width="121" height="92" align="left" valign="top" hspace="5" vspace="3" border="0">
 </a>
 </td>
 <td width="33%" valign="bottom" align="left" class="small">
-<a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/exec/obidos/ASIN/1573222976"> <img src="http://web.archive.org/web/20060111190728im_/http://images.amazon.com/images/P/1573222976.01.__PE34_PIsm.arrow,TopLeft,-2,-19_SCTZZZZZZZ_.jpg" width="80" height="108" align="left" valign="top" hspace="5" vspace="3" border="0">
+<a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=ASIN%2FB0001ATEMO%2Fref%3Damb%5Fcenter%2D7%5F140761101%5F15%2F&amp;l=140761101&amp;c=140761101&amp;i=1586737538&amp;s=1"> <img src="http://web.archive.org/web/20060112113446im_/http://images.amazon.com/images/P/B0001ATEMO.01.62TRZZZZ.jpg" width="99" height="83" align="left" valign="top" hspace="5" vspace="3" border="0">
 </a>
 </td>
 <td width="33%" valign="bottom" align="left" class="small">
-<a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/exec/obidos/ASIN/0307336131"> <img src="http://web.archive.org/web/20060111190728im_/http://images.amazon.com/images/P/0307336131.01.34TRZZZZ.jpg" width="79" height="121" align="left" valign="top" hspace="5" vspace="3" border="0">
+<a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=ASIN%2FB00012PTSA%2Fref%3Damb%5Fcenter%2D7%5F140761101%5F18%2F&amp;l=140761101&amp;c=140761101&amp;i=1586737538&amp;s=1"> <img src="http://web.archive.org/web/20060112113446im_/http://images.amazon.com/images/P/B00012PTSA.01.29TRZZZZ.jpg" width="121" height="115" align="left" valign="top" hspace="5" vspace="3" border="0">
 </a>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<b class="small"><a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/exec/obidos/ASIN/0471738735"><i>Just One Thing: Twelve of the World's Best Investors Reveal the One Strategy...</i></a></b><br>
+<b class="small"><a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=ASIN%2FB000660VCA%2Fref%3Damb%5Fcenter%2D7%5F140761101%5F11%2F&amp;l=140761101&amp;c=140761101&amp;i=1586737538&amp;s=1">Seal-a-Meal Vacuum Food Sealer</a></b><br>
+<span class="tiny">•
+<a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=ASIN%2FB000660VCA%2Fref%3Damb%5Fcenter%2D7%5F140761101%5F10%2F&amp;l=140761101&amp;c=140761101&amp;i=1586737538&amp;s=1">Preserves leftovers, bulk foods, and important documents, $39.99</a><br></span>
 </td>
 <td valign="top">
-<b class="small"><a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/exec/obidos/ASIN/1573222976"><i>The Money Book for the Young, Fabulous &amp; Broke</i></a></b><br>
+<b class="small"><a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=ASIN%2FB0001ATEMO%2Fref%3Damb%5Fcenter%2D7%5F140761101%5F14%2F&amp;l=140761101&amp;c=140761101&amp;i=1586737538&amp;s=1">T-Fal Avanti Elite Toaster 4T Model 2</a></b><br>
+<span class="tiny">•
+<a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=ASIN%2FB0001ATEMO%2Fref%3Damb%5Fcenter%2D7%5F140761101%5F13%2F&amp;l=140761101&amp;c=140761101&amp;i=1586737538&amp;s=1">Featuring high-tech design and a nine-position electronic browning control panel, this toaster does it all, $39.99</a><br></span>
 </td>
 <td valign="top">
-<b class="small"><a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/exec/obidos/ASIN/0307336131"><i>Rule #1: The Simple Strategy for Getting Rich (Pre-order)</i></a></b><br>
+<b class="small"><a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=ASIN%2FB00012PTSA%2Fref%3Damb%5Fcenter%2D7%5F140761101%5F17%2F&amp;l=140761101&amp;c=140761101&amp;i=1586737538&amp;s=1">Lentek Single Bottle Wine Cooler</a></b><br>
+<span class="tiny">•
+<a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=ASIN%2FB00012PTSA%2Fref%3Damb%5Fcenter%2D7%5F140761101%5F16%2F&amp;l=140761101&amp;c=140761101&amp;i=1586737538&amp;s=1">Pair a perfectly chilled bottle of wine with your meal, $39.99</a><br></span>
 </td>
 </tr> </tbody></table>
 <br>
+</div>
+<div class="small">
 </div>
 <div class="small">
 <font color="#CC6600"><b class="sans">Hot Watch Brands, Cool Everyday Prices</b></font><br clear="all">
 <table border="0" cellpadding="8" cellspacing="0" width="100%">
 <tbody><tr>
 <td width="33%" valign="bottom" align="left" class="small">
-<a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/exec/obidos/ASIN/B0007OER0S"><img src="http://web.archive.org/web/20060111190728im_/http://g-images.amazon.com/images/G/01/jewelry/watches/B0007OER0S.jpg" width="76" height="100" align="left" border="0"></a>
+<a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=ASIN%2FB0007OER0S%2Fref%3Damb%5Fcenter%2D8%5F135123601%5F1%2F&amp;l=135123601&amp;c=135123601&amp;i=1586737538&amp;s=1"><img src="http://web.archive.org/web/20060112113446im_/http://g-images.amazon.com/images/G/01/jewelry/watches/B0007OER0S.jpg" width="76" height="100" align="left" border="0"></a>
 </td>
 <td width="33%" valign="bottom" align="left" class="small">
-<a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/exec/obidos/ASIN/B0007VUBME"><img src="http://web.archive.org/web/20060111190728im_/http://g-images.amazon.com/images/G/01/jewelry/watches/B0007VUBME-100.jpg" width="77" height="100" align="left" border="0"></a>
+<a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=ASIN%2FB0007VUBME%2Fref%3Damb%5Fcenter%2D8%5F135123601%5F3%2F&amp;l=135123601&amp;c=135123601&amp;i=1586737538&amp;s=1"><img src="http://web.archive.org/web/20060112113446im_/http://g-images.amazon.com/images/G/01/jewelry/watches/B0007VUBME-100.jpg" width="77" height="100" align="left" border="0"></a>
 </td>
 <td width="33%" valign="bottom" align="left" class="small">
-<a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/exec/obidos/ASIN/B000791P5S"><img src="http://web.archive.org/web/20060111190728im_/http://g-images.amazon.com/images/G/01/jewelry/watches/100/B000791P5S-100.jpg" width="93" height="100" align="left" border="0"></a>
+<a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=ASIN%2FB000791P5S%2Fref%3Damb%5Fcenter%2D8%5F135123601%5F4%2F&amp;l=135123601&amp;c=135123601&amp;i=1586737538&amp;s=1"><img src="http://web.archive.org/web/20060112113446im_/http://g-images.amazon.com/images/G/01/jewelry/watches/100/B000791P5S-100.jpg" width="93" height="100" align="left" border="0"></a>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<b class="small"><a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/gp/search.html/?node=3888811&amp;pct-off=50-&amp;index=apparel&amp;rank=salesrank&amp;x=8&amp;y=8">50% Off Watches</a></b><br>
+<b class="small"><a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=http%3A%2F%2Fwww.amazon.com%2Fgp%2Fsearch.html%2F%3Fnode%3D3888811%26pct%2Doff%3D50%2D%26index%3Dapparel%26rank%3Dsalesrank%26x%3D8%26y%3D8&amp;l=135123601&amp;c=135123601&amp;i=1586737538&amp;hmac=D2B5185A8E2FFCF6E1AF4FD503EB462E9BF5686A">50% Off Watches</a></b><br>
 <span class="tiny">•
-<a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/gp/search.html/?node=3888811&amp;brand=Citizen&amp;pct-off=50-&amp;keywords=&amp;Go.x=9&amp;Go.y=13">Citizen</a>
+<a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=http%3A%2F%2Fwww.amazon.com%2Fgp%2Fsearch.html%2F%3Fnode%3D3888811%26brand%3DCitizen%26pct%2Doff%3D50%2D%26keywords%3D%26Go.x%3D9%26Go.y%3D13&amp;l=135123601&amp;c=135123601&amp;i=1586737538&amp;hmac=A8DD4C5FAAF1A181FA4E0CD01A77F9A75866F5B5">Citizen</a>
 <br>•
-<a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/gp/search.html/?node=3888811&amp;brand=Invicta&amp;pct-off=50-">Invicta</a>
+<a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=http%3A%2F%2Fwww.amazon.com%2Fgp%2Fsearch.html%2F%3Fnode%3D3888811%26brand%3DInvicta%26pct%2Doff%3D50%2D&amp;l=135123601&amp;c=135123601&amp;i=1586737538&amp;hmac=312E99821556B41C59D64A3039AD380190017F9F">Invicta</a>
 <br>•
-<a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/gp/search.html/?node=3888811&amp;brand=Timex&amp;pct-off=50-">Timex</a>
+<a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=http%3A%2F%2Fwww.amazon.com%2Fgp%2Fsearch.html%2F%3Fnode%3D3888811%26brand%3DTimex%26pct%2Doff%3D50%2D&amp;l=135123601&amp;c=135123601&amp;i=1586737538&amp;hmac=CE524FA23F88EBC60104B80BA4DF3E76BA8B91D2">Timex</a>
 <br>•
-<a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/gp/search.html/?node=3888811&amp;brand=Seiko&amp;pct-off=50-">Seiko</a>
+<a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=http%3A%2F%2Fwww.amazon.com%2Fgp%2Fsearch.html%2F%3Fnode%3D3888811%26brand%3DSeiko%26pct%2Doff%3D50%2D&amp;l=135123601&amp;c=135123601&amp;i=1586737538&amp;hmac=0C92FA09ECF16E8FA6D03088FAF1021086B1E004">Seiko</a>
 <br>•
-<a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/gp/search.html/?node=3888811&amp;keywords=Amazon.com&amp;pct-off=50-">Sold by Amazon.com</a>
+<a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=http%3A%2F%2Fwww.amazon.com%2Fgp%2Fsearch.html%2F%3Fnode%3D3888811%26keywords%3DAmazon.com%26pct%2Doff%3D50%2D&amp;l=135123601&amp;c=135123601&amp;i=1586737538&amp;hmac=D20E74726DDDBC938D7E1EAA7C628AFE8DE37FE3">Sold by Amazon.com</a>
 <br>•
-<a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/gp/search.html/?node=3888811&amp;pct-off=50-&amp;index=apparel&amp;rank=salesrank&amp;x=8&amp;y=8">See All 50% Off Watches</a>
+<a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=http%3A%2F%2Fwww.amazon.com%2Fgp%2Fsearch.html%2F%3Fnode%3D3888811%26pct%2Doff%3D50%2D%26index%3Dapparel%26rank%3Dsalesrank%26x%3D8%26y%3D8&amp;l=135123601&amp;c=135123601&amp;i=1586737538&amp;hmac=D2B5185A8E2FFCF6E1AF4FD503EB462E9BF5686A">See All 50% Off Watches</a>
 <br></span>
 </td>
 <td valign="top">
-<b class="small"><a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/exec/obidos/tg/browse/-/3888811">Luxury Watches</a></b><br>
+<b class="small"><a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=tg%2Fbrowse%2F%2D%2F3888811%2Fref%3Damb%5Fcenter%2D8%5F135123601%5F2%2F&amp;l=135123601&amp;c=135123601&amp;i=1586737538&amp;s=1">Luxury Watches</a></b><br>
 <span class="tiny">•
-<a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/gp/search.html/?node=3888811&amp;brand=Breitling">Breitling</a>
+<a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=http%3A%2F%2Fwww.amazon.com%2Fgp%2Fsearch.html%2F%3Fnode%3D3888811%26brand%3DBreitling&amp;l=135123601&amp;c=135123601&amp;i=1586737538&amp;hmac=B330CA9E3B8302DF34B257DC070592E49AA44DA7">Breitling</a>
 <br>•
-<a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/gp/search.html/?node=3888811&amp;brand=Cartier">Cartier</a>
+<a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=http%3A%2F%2Fwww.amazon.com%2Fgp%2Fsearch.html%2F%3Fnode%3D3888811%26brand%3DCartier&amp;l=135123601&amp;c=135123601&amp;i=1586737538&amp;hmac=ED1BAC9E4C8F95C8DBA2752A377E9635DA1D75C0">Cartier</a>
 <br>•
-<a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/gp/search.html/?node=3888811&amp;brand=Movado">Movado</a>
+<a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=http%3A%2F%2Fwww.amazon.com%2Fgp%2Fsearch.html%2F%3Fnode%3D3888811%26brand%3DMovado&amp;l=135123601&amp;c=135123601&amp;i=1586737538&amp;hmac=9A300AFFB7FB11D560671800B2B00C7841EFB6A8">Movado</a>
 <br>•
-<a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/gp/search.html/?node=3888811&amp;brand=Omega">Omega</a>
+<a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=http%3A%2F%2Fwww.amazon.com%2Fgp%2Fsearch.html%2F%3Fnode%3D3888811%26brand%3DOmega&amp;l=135123601&amp;c=135123601&amp;i=1586737538&amp;hmac=03B5AC6C7DC1A231757B8B72D589FB3591EB5530">Omega</a>
 <br>•
-<a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/gp/search.html/?node=3888811&amp;brand=TAG Heuer">TAG Heuer</a>
+<a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=http%3A%2F%2Fwww.amazon.com%2Fgp%2Fsearch.html%2F%3Fnode%3D3888811%26brand%3DTAG%20Heuer&amp;l=135123601&amp;c=135123601&amp;i=1586737538&amp;hmac=A19608B842F5D8052216330B2BA710728D05C80E">TAG Heuer</a>
 <br>•
-<a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/gp/search.html/?node=3888811">See All Brands</a>
+<a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=http%3A%2F%2Fwww.amazon.com%2Fgp%2Fsearch.html%2F%3Fnode%3D3888811&amp;l=135123601&amp;c=135123601&amp;i=1586737538&amp;hmac=B56B80ADFAC482CDD139831EEC7179D69B7D23A1">See All Brands</a>
 <br></span>
 </td>
 <td valign="top">
-<b class="small"><a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/gp/search.html/?node=3888811&amp;keywords=Sports">Sports Watches</a></b><br>
+<b class="small"><a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=http%3A%2F%2Fwww.amazon.com%2Fgp%2Fsearch.html%2F%3Fnode%3D3888811%26keywords%3DSports&amp;l=135123601&amp;c=135123601&amp;i=1586737538&amp;hmac=8F5A89E87DC179F65AC405C5881C71369D590DF9">Sports Watches</a></b><br>
 <span class="tiny">•
-<a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/gp/search.html/?node=3888811&amp;brand=Casio">Casio</a>
+<a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=http%3A%2F%2Fwww.amazon.com%2Fgp%2Fsearch.html%2F%3Fnode%3D3888811%26brand%3DCasio&amp;l=135123601&amp;c=135123601&amp;i=1586737538&amp;hmac=D364B567D4E663255F1B72FF2E292D527A36A54F">Casio</a>
 <br>•
-<a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/gp/search.html/?node=3888811&amp;brand=Freestyle">Freestyle</a>
+<a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=http%3A%2F%2Fwww.amazon.com%2Fgp%2Fsearch.html%2F%3Fnode%3D3888811%26brand%3DFreestyle&amp;l=135123601&amp;c=135123601&amp;i=1586737538&amp;hmac=E1D49674B2E9E3573114AD752E4BF1F4235CE50E">Freestyle</a>
 <br>•
-<a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/gp/search.html/?node=3888811&amp;brand=Luminox">Luminox</a>
+<a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=http%3A%2F%2Fwww.amazon.com%2Fgp%2Fsearch.html%2F%3Fnode%3D3888811%26brand%3DLuminox&amp;l=135123601&amp;c=135123601&amp;i=1586737538&amp;hmac=3ED24BD42F409958228D3D559D712068643232EF">Luminox</a>
 <br>•
-<a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/gp/search.html/?node=3888811&amp;brand=Nike">Nike</a>
+<a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=http%3A%2F%2Fwww.amazon.com%2Fgp%2Fsearch.html%2F%3Fnode%3D3888811%26brand%3DNike&amp;l=135123601&amp;c=135123601&amp;i=1586737538&amp;hmac=F3ADD219EA1D3CF0E1785AF727F5D89002E57B8C">Nike</a>
 <br>•
-<a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/gp/search.html/?node=3888811&amp;brand=Suunto">Suunto</a>
+<a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=http%3A%2F%2Fwww.amazon.com%2Fgp%2Fsearch.html%2F%3Fnode%3D3888811%26brand%3DSuunto&amp;l=135123601&amp;c=135123601&amp;i=1586737538&amp;hmac=7F492316A9B8A885D43735CFF67155B229F95E0A">Suunto</a>
 <br>•
-<a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/gp/search.html/?node=3888811&amp;keywords=Sports">See All Sports Watches</a>
+<a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=http%3A%2F%2Fwww.amazon.com%2Fgp%2Fsearch.html%2F%3Fnode%3D3888811%26keywords%3DSports&amp;l=135123601&amp;c=135123601&amp;i=1586737538&amp;hmac=8F5A89E87DC179F65AC405C5881C71369D590DF9">See All Sports Watches</a>
 <br></span>
 </td>
 </tr> </tbody></table>
@@ -911,42 +1061,40 @@ Our Music Editor's Picks</a> <br></span>
 <td>
 <table border="0" width="180" cellpadding="1" cellspacing="0" bgcolor="#708090"><tbody><tr><td><table width="100%" border="0" cellpadding="4" cellspacing="0" bgcolor="#708090"><tbody><tr><td bgcolor="#ffffff" valign="top">
 <div class="small">
-<b class="h3color"><a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/exec/obidos/tg/feature/-/598417">Newest from Kodak</a></b><br clear="left">
-<font face="verdana,arial,helvetica" size="-1"><a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/exec/obidos/tg/feature/-/598417">
-<img src="http://web.archive.org/web/20060111190728im_/http://images.amazon.com/images/P/B000CD6B3A.01.THUMBZZZ.jpg" width="64" height="75" align="left" valign="top" hspace="5" vspace="3" border="0">
-</a>The <a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/exec/obidos/ASIN/B000CD6B3A">Kodak V570</a> is one of several <a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/exec/obidos/tg/feature/-/598417">new Kodak digital cameras</a>. <a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/exec/obidos/tg/feature/-/598417">Pre-order yours today</a>.</font>
+<b class="h3color"><a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=tg%2Fbrowse%2F%2D%2F13609551%2Fref%3Damb%5Fright%2D1%5F141334101%5F1%2F&amp;l=141334101&amp;c=141334101&amp;i=1586737538&amp;s=1">Tropical Escape</a></b><br clear="left">
+<font face="verdana,arial,helvetica" size="-1"><a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=tg%2Fbrowse%2F%2D%2F13609551%2Fref%3Damb%5Fright%2D1%5F141334101%5F2%2F&amp;l=141334101&amp;c=141334101&amp;i=1586737538&amp;s=1"><img src="http://web.archive.org/web/20060112113446im_/http://g-images.amazon.com/images/G/01/beauty/philosophy_daiquiri_75.jpg" width="37" height="75" border="0" valign="top" align="left"></a>Indulge your dreams of an island getaway with <a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=tg%2Fbrowse%2F%2D%2F13609551%2Fref%3Damb%5Fright%2D1%5F141334101%5F3%2F&amp;l=141334101&amp;c=141334101&amp;i=1586737538&amp;s=1">tropical scents, shades, and suds</a>. Find these and more at <a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=tg%2Fbrowse%2F%2D%2F3760911%2Fref%3Damb%5Fright%2D1%5F141334101%5F4%2F&amp;l=141334101&amp;c=141334101&amp;i=1586737538&amp;s=1">Amazon.com Beauty</a>.</font>
 </div>
 </td></tr></tbody></table></td></tr></tbody></table>
 <br clear="all">
 <table border="0" width="180" cellpadding="1" cellspacing="0" bgcolor="#708090"><tbody><tr><td><table width="100%" border="0" cellpadding="4" cellspacing="0" bgcolor="#708090"><tbody><tr><td bgcolor="#ffffff" valign="top">
 <div class="small">
-<b class="h3color"><a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/exec/obidos/tg/browse/-/465600">The Textbook Store</a></b><br clear="left">
-<font face="verdana,arial,helvetica" size="-1"><a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/exec/obidos/tg/browse/-/465600"><img src="http://web.archive.org/web/20060111190728im_/http://g-images.amazon.com/images/G/01/books/textbooks/90/textbook_75.gif" width="75" height="75" border="0" valign="top" align="left"></a>Get a jump on your next school semester with great deals in <a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/exec/obidos/tg/feature/-/571001">reference</a>, <a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/exec/obidos/tg/feature/-/571002">test prep</a>, and <a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/exec/obidos/tg/feature/-/571004">college-survival books</a> at Amazon's new <a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/exec/obidos/tg/browse/-/465600">Textbook Store</a>.</font>
+<b class="h3color"><a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=tg%2Fbrowse%2F%2D%2F465600%2Fref%3Damb%5Fright%2D2%5F141019501%5F1%2F&amp;l=141019501&amp;c=141019501&amp;i=1586737538&amp;s=1">The Textbook Store</a></b><br clear="left">
+<font face="verdana,arial,helvetica" size="-1"><a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=tg%2Fbrowse%2F%2D%2F465600%2Fref%3Damb%5Fright%2D2%5F141019501%5F2%2F&amp;l=141019501&amp;c=141019501&amp;i=1586737538&amp;s=1"><img src="http://web.archive.org/web/20060112113446im_/http://g-images.amazon.com/images/G/01/books/textbooks/90/textbook_75.gif" width="75" height="75" border="0" valign="top" align="left"></a>Get a jump on your next school semester with great deals in <a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=tg%2Ffeature%2F%2D%2F571001%2Fref%3Damb%5Fright%2D2%5F141019501%5F3%2F&amp;l=141019501&amp;c=141019501&amp;i=1586737538&amp;s=1">reference</a>, <a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=tg%2Ffeature%2F%2D%2F571002%2Fref%3Damb%5Fright%2D2%5F141019501%5F4%2F&amp;l=141019501&amp;c=141019501&amp;i=1586737538&amp;s=1">test prep</a>, and <a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=tg%2Ffeature%2F%2D%2F571004%2Fref%3Damb%5Fright%2D2%5F141019501%5F5%2F&amp;l=141019501&amp;c=141019501&amp;i=1586737538&amp;s=1">college-survival books</a> at Amazon's new <a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=tg%2Fbrowse%2F%2D%2F465600%2Fref%3Damb%5Fright%2D2%5F141019501%5F6%2F&amp;l=141019501&amp;c=141019501&amp;i=1586737538&amp;s=1">Textbook Store</a>.</font>
 </div>
 </td></tr></tbody></table></td></tr></tbody></table>
 <br clear="all">
 <table border="0" width="180" cellpadding="1" cellspacing="0" bgcolor="#708090"><tbody><tr><td><table width="100%" border="0" cellpadding="4" cellspacing="0" bgcolor="#708090"><tbody><tr><td bgcolor="#ffffff" valign="top">
 <div class="small">
-<b class="h3color"><a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/exec/obidos/ASIN/B000E1PTGK">New! HD DVD Players</a></b><br clear="left">
-<font face="verdana,arial,helvetica" size="-1"> <a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/exec/obidos/ASIN/B000E1PTGK"><img src="http://web.archive.org/web/20060111190728im_/http://g-images.amazon.com/images/G/01/electronics/hddvd/Toshiba-HDA1-60.gif" width="60" height="31" border="0" valign="top" align="left">
-</a> HD DVD is on the way. Check out the brand-new Toshiba <a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/exec/obidos/ASIN/B000E1PTGK">HD-A1</a> and <a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/exec/obidos/ASIN/B000E21TY0">HD-XA1</a> HD DVD players.
-</font>
+<b class="h3color"><a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=ASIN%2FB000AXQXXU%2Fref%3Damb%5Fright%2D3%5F132609501%5F1%2F&amp;l=132609501&amp;c=132609501&amp;i=1586737538&amp;s=1">Up to $150 Off Nikon</a></b><br clear="left">
+<font face="verdana,arial,helvetica" size="-1"><a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=ASIN%2FB000AXQXXU%2Fref%3Damb%5Fright%2D3%5F132609501%5F2%2F&amp;l=132609501&amp;c=132609501&amp;i=1586737538&amp;s=1">
+<img src="http://web.archive.org/web/20060112113446im_/http://images.amazon.com/images/P/B000AXQXXU.01.THUMBZZZ.jpg" width="75" height="50" align="left" valign="top" hspace="5" vspace="3" border="0">
+</a>Right now, enjoy up to $150 in instant rebates on Nikon <a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=ASIN%2FB000AXQXXU%2Fref%3Damb%5Fright%2D3%5F132609501%5F3%2F&amp;l=132609501&amp;c=132609501&amp;i=1586737538&amp;s=1">P1</a>, <a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=ASIN%2FB000AXQVK0%2Fref%3Damb%5Fright%2D3%5F132609501%5F4%2F&amp;l=132609501&amp;c=132609501&amp;i=1586737538&amp;s=1">P2</a>, and <a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=ASIN%2FB000AXQSVC%2Fref%3Damb%5Fright%2D3%5F132609501%5F5%2F&amp;l=132609501&amp;c=132609501&amp;i=1586737538&amp;s=1">L1</a> digital cameras.</font>
 </div>
 </td></tr></tbody></table></td></tr></tbody></table>
 <br clear="all">
 <table border="0" width="180" cellpadding="1" cellspacing="0" bgcolor="#708090"><tbody><tr><td><table width="100%" border="0" cellpadding="4" cellspacing="0" bgcolor="#708090"><tbody><tr><td bgcolor="#ffffff" valign="top">
 <div class="small">
-<b class="h3color"><a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/gp/richpub/listmania/fullview/36KHC200ZFHC3">The Biggest DVD Surprises of 2005</a> </b><br clear="left">
-<font face="verdana,arial,helvetica" size="-1"> <a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/exec/obidos/ASIN/B0006UEVQ8">
-<img src="http://web.archive.org/web/20060111190728im_/http://images.amazon.com/images/P/B0006UEVQ8.01.THUMBZZZ.jpg" width="53" height="75" align="left" valign="top" hspace="5" vspace="3" border="0">
-</a> Every year there are DVDs that take us by surprise, and it turns out, 2005 was no different. See the <a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/gp/richpub/listmania/fullview/36KHC200ZFHC3">10 biggest surprises of the year</a> in DVD.</font>
+<b class="h3color"><a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=http%3A%2F%2Fwww.amazon.com%2Fgp%2Frichpub%2Flistmania%2Ffullview%2F36KHC200ZFHC3&amp;l=141125901&amp;c=141125901&amp;i=1586737538&amp;hmac=A057043FAE17732B710F45B8BCE158B2086615AF">The Biggest DVD Surprises of 2005</a> </b><br clear="left">
+<font face="verdana,arial,helvetica" size="-1"> <a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=ASIN%2FB0006UEVQ8%2Fref%3Damb%5Fright%2D4%5F141125901%5F1%2F&amp;l=141125901&amp;c=141125901&amp;i=1586737538&amp;s=1">
+<img src="http://web.archive.org/web/20060112113446im_/http://images.amazon.com/images/P/B0006UEVQ8.01.THUMBZZZ.jpg" width="53" height="75" align="left" valign="top" hspace="5" vspace="3" border="0">
+</a> Every year there are DVDs that take us by surprise, and it turns out, 2005 was no different. See the <a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=http%3A%2F%2Fwww.amazon.com%2Fgp%2Frichpub%2Flistmania%2Ffullview%2F36KHC200ZFHC3&amp;l=141125901&amp;c=141125901&amp;i=1586737538&amp;hmac=A057043FAE17732B710F45B8BCE158B2086615AF">10 biggest surprises of the year</a> in DVD.</font>
 </div>
 </td></tr></tbody></table></td></tr></tbody></table>
 <br clear="all">
 <table border="0" width="180" cellpadding="1" cellspacing="0" bgcolor="#708090"><tbody><tr><td><table width="100%" border="0" cellpadding="4" cellspacing="0" bgcolor="#708090"><tbody><tr><td bgcolor="#ffffff" valign="top">
 <div class="small">
-<b class="h3color"> <a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/exec/obidos/ASIN/B0007OPW5C">Remember These?</a></b><br clear="left">
-<font face="verdana,arial,helvetica" size="-1"> <a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/exec/obidos/ASIN/B0007OPW5C"><img src="http://web.archive.org/web/20060111190728im_/http://g-images.amazon.com/images/G/01/gourmet/asins/cinnamon_toothpicks75.gif" width="75" height="55" border="0" valign="top" align="left"></a>Red hot <a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/exec/obidos/ASIN/B0007OPW5C">Cinnamon Toothpicks</a> are low in fat and high in flavor. They're just one of the <a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/exec/obidos/tg/browse/-/3586271">retro treats and candy</a> you'll find at <a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/exec/obidos/tg/browse/-/3370831">Amazon.com Gourmet Food</a>. </font>
+<b class="h3color"><a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=tg%2Fbrowse%2F%2D%2F13889001%2Fref%3Damb%5Fright%2D5%5F119891101%5F1%2F&amp;l=119891101&amp;c=119891101&amp;i=1586737538&amp;s=1">Free Shipping</a></b><br clear="left">
+<font face="verdana,arial,helvetica" size="-1"><a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=tg%2Fbrowse%2F%2D%2F13889001%2Fref%3Damb%5Fright%2D5%5F119891101%5F2%2F&amp;l=119891101&amp;c=119891101&amp;i=1586737538&amp;s=1"><img src="http://web.archive.org/web/20060112113446im_/http://g-images.amazon.com/images/G/01/beauty/gwp/philosophy_grace_75.jpg" width="35" height="75" border="0" valign="top" align="left"></a>Enjoy free shipping on select purchases from <a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=tg%2Fbrowse%2F%2D%2F12880061%2Fref%3Damb%5Fright%2D5%5F119891101%5F3%2F&amp;l=119891101&amp;c=119891101&amp;i=1586737538&amp;s=1">philosophy</a>, <a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=tg%2Fbrowse%2F%2D%2F11068891%2Fref%3Damb%5Fright%2D5%5F119891101%5F4%2F&amp;l=119891101&amp;c=119891101&amp;i=1586737538&amp;s=1">Sephora</a>, <a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=tg%2Fbrowse%2F%2D%2F11055101%2Fref%3Damb%5Fright%2D5%5F119891101%5F5%2F&amp;l=119891101&amp;c=119891101&amp;i=1586737538&amp;s=1">Avon</a>, and 20 more of your favorites at <a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/exec/obidos/am/103-3640082-9615854?p=tg%2Fbrowse%2F%2D%2F13889001%2Fref%3Damb%5Fright%2D5%5F119891101%5F6%2F&amp;l=119891101&amp;c=119891101&amp;i=1586737538&amp;s=1">Amazon.com Beauty</a>.</font>
 </div>
 </td></tr></tbody></table></td></tr></tbody></table>
 <br clear="all">
@@ -959,14 +1107,14 @@ Our Music Editor's Picks</a> <br></span>
 
 <br clear="all">
 <center>
-<form method="get" action="/web/20060111190728/http://amazon.com/exec/obidos/search-handle-url/">
+<form method="get" action="/web/20060112113446/http://www.amazon.com/exec/obidos/search-handle-url/103-3640082-9615854">
 <table border="0" width="100%" cellpadding="1" cellspacing="0" bgcolor="#999999">
 <tbody><tr><td>
 <table border="0" width="100%" bgcolor="#ffffff" cellspacing="0" cellpadding="5" class="small">
 <tbody><tr valign="top"><td width="33%" class="small">
 <b>Where's My Stuff?</b><br>
-• Track your <a href="http://web.archive.org/web/20060111190728/https://www.amazon.com/gp/css/history/view.html/?orderFilter=days-30">recent orders</a>.<br>
-• View or change your orders in <a href="/web/20060111190728/http://amazon.com/gp/css/homepage.html">Your Account</a>.
+• Track your <a href="http://web.archive.org/web/20060112113446/https://www.amazon.com/gp/css/history/view.html/103-3640082-9615854?orderFilter=days-30">recent orders</a>.<br>
+• View or change your orders in <a href="/web/20060112113446/http://www.amazon.com/gp/css/homepage.html/ref=hy_f_2/103-3640082-9615854">Your Account</a>.
 <script language="JavaScript1.1" type="text/javascript">
 <!--
 var agt=navigator.userAgent.toLowerCase();
@@ -1028,20 +1176,20 @@ document.write(text);
 </td>
 <td width="33%" class="small">
 <b>Shipping &amp; Returns</b><br>
-• See our <a href="/web/20060111190728/http://amazon.com/exec/obidos/tg/browse/-/468520">shipping rates &amp; policies</a>.<br>
-• <a href="/web/20060111190728/http://amazon.com/exec/obidos/subst/help/self-service-returns.html">Return</a> an item (here's our <a href="/web/20060111190728/http://amazon.com/exec/obidos/tg/browse/-/468532/">Returns Policy</a>).
+• See our <a href="/web/20060112113446/http://www.amazon.com/exec/obidos/tg/browse/-/468520/ref=hy_f_3/103-3640082-9615854">shipping rates &amp; policies</a>.<br>
+• <a href="/web/20060112113446/http://www.amazon.com/exec/obidos/subst/help/self-service-returns.html/ref=hy_f_4/103-3640082-9615854">Return</a> an item (here's our <a href="/web/20060112113446/http://www.amazon.com/exec/obidos/tg/browse/-/468532/103-3640082-9615854">Returns Policy</a>).
 </td>
 <td width="33%" class="small">
 <b>Need Help?</b><br>
 <script language="JavaScript1.1" type="text/javascript">
 <!--
-displayLink('&#149; New customer? <a href=javascript:launch(\'/exec/obidos/subst/help/demo-new-customer/display-demo.html/\',788,444)>Click here</a> to learn about searching, browsing, and shopping at Amazon.com.<br>');
+displayLink('&#149; New customer? <a href=javascript:launch(\'/exec/obidos/subst/help/demo-new-customer/display-demo.html/ref=hy_f_ncdem/103-3640082-9615854\',788,444)>Click here</a> to learn about searching, browsing, and shopping at Amazon.com.<br>');
 //-->
-</script>• New customer? <a href="javascript:launch('/exec/obidos/subst/help/demo-new-customer/display-demo.html/',788,444)">Click here</a> to learn about searching, browsing, and shopping at Amazon.com.<br>
-• Forgot your password? <a href="/web/20060111190728/http://amazon.com/exec/obidos/self-service-forgot-password-get-email">Click here</a>.
+</script>• New customer? <a href="javascript:launch('/exec/obidos/subst/help/demo-new-customer/display-demo.html/ref=hy_f_ncdem/103-3640082-9615854',788,444)">Click here</a> to learn about searching, browsing, and shopping at Amazon.com.<br>
+• Forgot your password? <a href="/web/20060112113446/http://www.amazon.com/exec/obidos/self-service-forgot-password-get-email/ref=hy_f_6/103-3640082-9615854">Click here</a>.
 <br>
-• <a href="/web/20060111190728/http://amazon.com/exec/obidos/subst/gifts/gift-certificates/gc-redeeming.html">Redeem</a> or <a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/gp/product/B00067L6TQ">buy</a> a gift certificate.<br>
-• <a href="/web/20060111190728/http://amazon.com/exec/obidos/tg/browse/-/508510">Visit our Help department</a>. <br>
+• <a href="/web/20060112113446/http://www.amazon.com/exec/obidos/subst/gifts/gift-certificates/gc-redeeming.html/ref=hy_f_7/103-3640082-9615854">Redeem</a> or <a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/gp/product/B00067L6TQ/ref=hy_f_8/103-3640082-9615854">buy</a> a gift certificate.<br>
+• <a href="/web/20060112113446/http://www.amazon.com/exec/obidos/tg/browse/-/508510/ref=hy_f_9/103-3640082-9615854">Visit our Help department</a>. <br>
 </td></tr>
 </tbody></table>
 </td></tr>
@@ -1080,7 +1228,7 @@ displayLink('&#149; New customer? <a href=javascript:launch(\'/exec/obidos/subst
 </option><option value="index=hpc-index&amp;platform=gurupa">Health/Personal Care
 </option><option value="index=kitchen&amp;field-browse=12923371&amp;store-name=kitchen&amp;search-type=ss">Pet Supplies
 </option><option value="index=books&amp;field-browse=27&amp;store-name=travel">Travel Books
-</option><option value="index=wireless-phones">Cell Phones &amp; Service
+</option><option value="index=wireless-phones">Cell Phones
 </option><option value="index=outlet">Outlet
 </option><option value="index=auction-redirect">Auctions
 </option><option value="index=fixed-price-redirect">zShops
@@ -1089,7 +1237,7 @@ displayLink('&#149; New customer? <a href=javascript:launch(\'/exec/obidos/subst
 </select>
 <b>&nbsp;&nbsp;for&nbsp;&nbsp;</b>
 <input type="text" name="field-keywords" size="15">&nbsp;&nbsp;
-<input type="image" name="Go" value="Go!" border="0" alt="Go!" src="http://web.archive.org/web/20060111190728im_/http://g-images.amazon.com/images/G/01/v9/search-browse/go-button-gateway.gif" width="21" height="21" align="absmiddle">
+<input type="image" name="Go" value="Go!" border="0" alt="Go!" src="http://web.archive.org/web/20060112113446im_/http://g-images.amazon.com/images/G/01/v9/search-browse/go-button-gateway.gif" width="21" height="21" align="absmiddle">
 </td></tr></tbody></table>
 </td></tr>
 </tbody></table>
@@ -1099,40 +1247,40 @@ displayLink('&#149; New customer? <a href=javascript:launch(\'/exec/obidos/subst
 </div>
 <center>
 <p>
-<a href="/web/20060111190728/http://amazon.com/exec/obidos/subst/home/all-stores.html">Directory of All Stores</a></p><p>
+<a href="/web/20060112113446/http://www.amazon.com/exec/obidos/subst/home/all-stores.html/ref=gw_bt_st/103-3640082-9615854">Directory of All Stores</a></p><p>
 Our International Sites:
-<a href="/web/20060111190728/http://amazon.com/exec/obidos/redirect-to-external-url?path=http%3A//www.amazon.ca/exec/obidos/redirect-home%3Ftag%3Dis%5Frd%5Fca%5F1%26site%3Damazon">Canada</a>
+<a href="/web/20060112113446/http://www.amazon.com/exec/obidos/redirect-to-external-url/ref=gw_bt_ca/103-3640082-9615854?path=http%3A//www.amazon.ca/exec/obidos/redirect-home%3Ftag%3Dis%5Frd%5Fca%5F1%26site%3Damazon">Canada</a>
 &nbsp;&nbsp;|&nbsp;&nbsp;
-<a href="/web/20060111190728/http://amazon.com/exec/obidos/redirect-to-external-url?path=http%3A//www.amazon.co.uk/exec/obidos/redirect-home%3Ftag%3Dintl-usgt-ukhome-21%26site%3Damazon">United Kingdom</a>
+<a href="/web/20060112113446/http://www.amazon.com/exec/obidos/redirect-to-external-url/ref=gw_bt_uk/103-3640082-9615854?path=http%3A//www.amazon.co.uk/exec/obidos/redirect-home%3Ftag%3Dintl-usgt-ukhome-21%26site%3Damazon">United Kingdom</a>
 &nbsp;&nbsp;|&nbsp;&nbsp;
-<a href="/web/20060111190728/http://amazon.com/exec/obidos/redirect-to-external-url?path=http%3A//www.amazon.de/exec/obidos/redirect-home%3Ftag%3Dintl-usgt-dehome-21%26site%3Dhome">Germany</a>
+<a href="/web/20060112113446/http://www.amazon.com/exec/obidos/redirect-to-external-url/ref=gw_bt_de/103-3640082-9615854?path=http%3A//www.amazon.de/exec/obidos/redirect-home%3Ftag%3Dintl-usgt-dehome-21%26site%3Dhome">Germany</a>
 &nbsp;&nbsp;|&nbsp;&nbsp;
-<a href="/web/20060111190728/http://amazon.com/exec/obidos/redirect-to-external-url?path=http%3A//www.amazon.co.jp/exec/obidos/redirect-home%3Ftag%3Dintl-usgatew-jphome-22%26site%3Damazon">Japan</a>
+<a href="/web/20060112113446/http://www.amazon.com/exec/obidos/redirect-to-external-url/ref=gw_bt_jp/103-3640082-9615854?path=http%3A//www.amazon.co.jp/exec/obidos/redirect-home%3Ftag%3Dintl-usgatew-jphome-22%26site%3Damazon">Japan</a>
 &nbsp;&nbsp;|&nbsp;&nbsp;
-<a href="/web/20060111190728/http://amazon.com/exec/obidos/redirect-to-external-url?path=http%3A//www.amazon.fr/exec/obidos/redirect-home%3Fsite%3Damazon%26tag%3Dusfr-gatew-footer-21">France</a>
+<a href="/web/20060112113446/http://www.amazon.com/exec/obidos/redirect-to-external-url/ref=gw_bt_fr/103-3640082-9615854?path=http%3A//www.amazon.fr/exec/obidos/redirect-home%3Fsite%3Damazon%26tag%3Dusfr-gatew-footer-21">France</a>
 &nbsp;&nbsp;|&nbsp;&nbsp;
-<a href="/web/20060111190728/http://amazon.com/exec/obidos/redirect-to-external-url?path=http%3A//www.joyo.com/%3Fsource%3Damazon-usgatew">China</a>
+<a href="/web/20060112113446/http://www.amazon.com/exec/obidos/redirect-to-external-url/ref=gw_bt_cn/103-3640082-9615854?path=http%3A//www.joyo.com/%3Fsource%3Damazon-usgatew">China</a>
 </p><p>
-<a href="/web/20060111190728/http://amazon.com/exec/obidos/tg/browse/-/508510">Help</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-<a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/gp/cart/view.html">Shopping Cart</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-<a href="/web/20060111190728/http://amazon.com/gp/css/homepage.html">Your Account</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-<a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/gp/browse.html?node=3309511">Sell Items</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-<a href="/web/20060111190728/http://amazon.com/exec/obidos/flex-sign-in?opt=a&amp;page=ordering/one-click-address-sign-in-secure.html&amp;response=one-click-main&amp;method=GET&amp;return-url=one-click-main">1-Click Settings</a>
+<a href="/web/20060112113446/http://www.amazon.com/exec/obidos/tg/browse/-/508510/ref=gw_bt_he/103-3640082-9615854">Help</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/gp/cart/view.html/ref=gw_bt_sc/103-3640082-9615854">Shopping Cart</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="/web/20060112113446/http://www.amazon.com/gp/css/homepage.html/ref=gw_bt_ya/103-3640082-9615854">Your Account</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/gp/browse.html/ref=gw_bt_si/103-3640082-9615854?node=3309511">Sell Items</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="/web/20060112113446/http://www.amazon.com/exec/obidos/flex-sign-in/ref=gw_bt_oc/103-3640082-9615854?opt=a&amp;page=ordering/one-click-address-sign-in-secure.html&amp;response=one-click-main&amp;method=GET&amp;return-url=one-click-main">1-Click Settings</a>
 </p><p>
-<a href="/web/20060111190728/http://amazon.com/exec/obidos/redirect-to-external-url/?path=http%3A//phx.corporate-ir.net/phoenix.zhtml%3Fc%3D97664%26p%3Dirol-irhome">Investor Relations</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-<a href="/web/20060111190728/http://amazon.com/exec/obidos/redirect-to-external-url/?path=http%3A//phx.corporate-ir.net/phoenix.zhtml%3Fc%3D176060%26p%3Dirol-mediaHome">Press Room</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-<a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/gp/browse.html/?node=14201851">Careers</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-<a href="http://web.archive.org/web/20060111190728/http://www.amazon.com/gp/browse.html?node=3435371">Join Associates</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-<a href="/web/20060111190728/http://amazon.com/exec/obidos/subst/partners/direct/direct-application.html">Join Advantage</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-<a href="http://web.archive.org/web/20060111190728/http://s1.amazon.com/exec/varzea/subst/fx/home.html">Join Honor System</a>
+<a href="/web/20060112113446/http://www.amazon.com/exec/obidos/redirect-to-external-url/103-3640082-9615854?path=http%3A//phx.corporate-ir.net/phoenix.zhtml%3Fc%3D97664%26p%3Dirol-irhome">Investor Relations</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="/web/20060112113446/http://www.amazon.com/exec/obidos/redirect-to-external-url/103-3640082-9615854?path=http%3A//phx.corporate-ir.net/phoenix.zhtml%3Fc%3D176060%26p%3Dirol-mediaHome">Press Room</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/gp/browse.html/103-3640082-9615854?node=14201851">Careers</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="http://web.archive.org/web/20060112113446/http://www.amazon.com/gp/browse.html/ref=gw_bt_as/103-3640082-9615854?node=3435371">Join Associates</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="/web/20060112113446/http://www.amazon.com/exec/obidos/subst/partners/direct/direct-application.html/ref=gw_bt_ad/103-3640082-9615854">Join Advantage</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="http://web.archive.org/web/20060112113446/http://s1.amazon.com/exec/varzea/subst/fx/home.html/ref=gw_bt_hs/103-3640082-9615854">Join Honor System</a>
 </p></center>
 <center>
 <p>
 </p><div class="tiny" align="center">
-<a href="/web/20060111190728/http://amazon.com/exec/obidos/subst/misc/policy/conditions-of-use.html/">Conditions of Use</a> | <a href="/web/20060111190728/http://amazon.com/exec/obidos/tg/browse/-/468496/">Privacy Notice</a> © 1995-2005, Amazon.com, Inc. or its affiliates
+<a href="/web/20060112113446/http://www.amazon.com/exec/obidos/subst/misc/policy/conditions-of-use.html/103-3640082-9615854">Conditions of Use</a> | <a href="/web/20060112113446/http://www.amazon.com/exec/obidos/tg/browse/-/468496/103-3640082-9615854">Privacy Notice</a> © 1995-2005, Amazon.com, Inc. or its affiliates
 </div>
 </center>
-<!-- whfhqRJX9N845St5S+vqlBo4f+SjjSVoPL/S -->
+<!-- whfh3FWUzedr5E74jrtGdFd7JSFuhJOkyWek -->
 <script language="Javascript1.1" type="text/javascript">
 <!--
 top.focus();
